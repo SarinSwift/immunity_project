@@ -1,5 +1,7 @@
 import random
+random.seed(42)
 # TODO: Import the virus clase
+from Virus import Virus
 
 class Person(object):
     '''
@@ -41,7 +43,7 @@ class Person(object):
             is_vaccinated attribute is changed to True, and set self.infected to None.
     '''
 
-    def __init__(self, _id, is_vaccinated, infected=None):
+    def __init__(self, _id, is_vaccinated, infected=False):
         # TODO:  Finish this method.  Follow the instructions in the class documentation
         # to set the corret values for the following attributes.
         self.alive = True
@@ -51,15 +53,28 @@ class Person(object):
         self.is_alive = True
 
 
-    def did_survive_infection():
+    def did_survive_infection(self, mortality_rate):
         # TODO:  Finish this method. Follow the instructions in the class documentation
+        # TODO: You will need to decide what parameters you pass into this method based on how you structure your class.
         # for resolve_infection.  If person dies, set is_alive to False and return False.
         # If person lives, set is_vaccinated = True, infected = None, return True.
-        random_number =  random.randint(0, 1)
-        if random_number < self.mortality_rate:
-            self.is_alive == False
-            return False
-        elif random_number > self.mortality_rate:
-            self.is_vaccinated == True
-            self.infected = None
-            return True
+        if self.infection != None:
+            random_number =  random.uniform(0, 1)
+            if random_number < mortality_rate:
+                self.is_alive = False
+                return False
+            else:
+                self.is_vaccinated = True
+                self.infected = None
+                return True
+
+        # random_number =  random.uniform(0, 1)
+        # if random_number <= self.infection:
+        #     self.is_alive = False
+        #     return False
+        # elif random_number > self.mortality_rate:
+        #     # Person surives, so now theyre vaccinated
+        #     self.is_vaccinated = True
+        #     # Remove the virus
+        #     self.infected = None
+        #     return True
