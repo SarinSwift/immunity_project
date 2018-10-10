@@ -1,0 +1,9 @@
+population size:100
+vaccine percentage:0.5
+virus name:ebola
+mortality rate:0.7
+basic reproduction number:0.3
+
+22 infects 23
+23 died from infection
+Time step 1 ended, beginning time step 2
