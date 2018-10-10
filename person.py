@@ -28,7 +28,7 @@ class Person(object):
 
 
 if __name__ == "__main__":
-    ebola = Virus("HIV", 0.8, 0.25)
+    ebola = Virus("Ebola", 0.8, 0.25)
     sarin = Person(22, True, ebola)
 
     print(sarin.alive == True)
