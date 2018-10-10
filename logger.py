@@ -37,15 +37,15 @@ class Logger(object):
         file.write("Time step {} ended, beginning time step {}\n\n".format(time_step_number, new_time_step_counter))
         file.close()
 
-if __name__ == "__main__":
-    logger = Logger('first_log')
-    logger.write_metadata(100, 0.5, "ebola", 0.7, 0.3)
-
-    ebola = Virus("Ebola", 0.8, 0.25)
-    sarin = Person(22, True, ebola)
-    rinni = Person(23, False)
-    logger.log_interaction(sarin, rinni, True, False, False)
-
-    logger.log_infection_survival(rinni, True)
-
-    logger.log_time_step(1)
+# if __name__ == "__main__":
+#     logger = Logger('first_log')
+#     logger.write_metadata(100, 0.5, "ebola", 0.7, 0.3)
+#
+#     ebola = Virus("Ebola", 0.8, 0.25)
+#     sarin = Person(22, True, ebola)
+#     rinni = Person(23, False)
+#     logger.log_interaction(sarin, rinni, True, False, False)
+#
+#     logger.log_infection_survival(rinni, True)
+#
+#     logger.log_time_step(1)
