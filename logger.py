@@ -41,7 +41,7 @@ if __name__ == "__main__":
     logger = Logger('first_log')
     logger.write_metadata(100, 0.5, "ebola", 0.7, 0.3)
 
-    ebola = Virus("HIV", 0.8, 0.25)
+    ebola = Virus("Ebola", 0.8, 0.25)
     sarin = Person(22, True, ebola)
     rinni = Person(23, False)
     logger.log_interaction(sarin, rinni, True, False, False)
