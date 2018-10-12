@@ -11,13 +11,13 @@ class Person(object):
         self.is_vaccinated = is_vaccinated
         self.infected = infected
         self.is_alive = True
-        self.infection = None
+        self.infection = infected
 
 
     def did_survive_infection(self, mortality_rate):
         if self.infection != None:
             random_number =  random.uniform(0, 1)
-            if random_number < mortality_rate:
+            if random_number < self.infected.mortality_rate:
                 self.is_alive = False
                 return False
             else:
@@ -27,10 +27,10 @@ class Person(object):
 
 
 
-if __name__ == "__main__":
-    ebola = Virus("Ebola", 0.8, 0.25)
-    sarin = Person(22, True, ebola)
-
-    print(sarin.alive == True)
-    print(sarin.infected == ebola)
-    print(sarin.infected.mortality_rate)
+# if __name__ == "__main__":
+#     ebola = Virus("Ebola", 0.8, 0.25)
+#     sarin = Person(22, True, ebola)
+#
+#     print(sarin.alive == True)
+#     print(sarin.infected == ebola)
+#     print(sarin.infected.mortality_rate)
