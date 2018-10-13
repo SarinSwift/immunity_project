@@ -9,23 +9,24 @@ class Simulation(object):
     def __init__(self, population_size, vacc_percentage, virus_name,
                  mortality_rate, basic_repro_num, initial_infected=1):
         self.population_size = population_size
+        self.vacc_percentage = vacc_percentage
+        self.virus_name = virus_name
+        self.mortality_rate = mortality_rate
+        self.basic_repro_num = basic_repro_num
+        self.initial_infected = initial_infected
+
         self.population = []
+        self.newly_infected = []
         self.total_infected = 0
         self.total_dead = 0
         self.current_infected = 0
         self.next_person_id = 0
-        self.vacc_percentage = vacc_percentage
-        self.virus_name = virus_name
-        self.mortality_rate = mortality_rate
+
         self.virus = Virus(virus_name, mortality_rate, basic_repro_num)
-        self.basic_repro_num = basic_repro_num
-        self.initial_infected = initial_infected
         self.file_name = "{}_simulation_pop_{}_vp_{}_infected_{}.txt".format(
             virus_name, population_size, vacc_percentage, initial_infected)
         self.logger = Logger(self.file_name)
         self.logger.write_metadata(population_size, vacc_percentage, virus_name, mortality_rate, basic_repro_num)
-
-        self.newly_infected = []
         self._create_population(initial_infected)
 
     def _create_population(self, initial_infected):
