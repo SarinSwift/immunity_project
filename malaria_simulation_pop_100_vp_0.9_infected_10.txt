@@ -1,0 +1,3430 @@
+population size:100
+vaccine percentage:0.9
+virus name:malaria
+mortality rate:0.7
+basic reproduction number:0.25
+
+0 didn't infect 14 because is already vaccinated or already sick.
+
+0 didn't infect 19 because is already vaccinated or already sick.
+
+0 didn't infect 80 because is already vaccinated or already sick.
+
+0 didn't infect 20 because is already vaccinated or already sick.
+
+0 didn't infect 87 because is already vaccinated or already sick.
+
+0 didn't infect 54 because is already vaccinated or already sick.
+
+0 didn't infect 76 because is already vaccinated or already sick.
+
+0 didn't infect 8 because is already vaccinated or already sick.
+
+0 didn't infect 49 because is already vaccinated or already sick.
+
+0 didn't infect 48 because is already vaccinated or already sick.
+
+0 didn't infect 76 because is already vaccinated or already sick.
+
+0 didn't infect 59 because is already vaccinated or already sick.
+
+0 didn't infect 67 because is already vaccinated or already sick.
+
+0 didn't infect 32 because is already vaccinated or already sick.
+
+0 didn't infect 70 because is already vaccinated or already sick.
+
+0 didn't infect 1 because is already vaccinated or already sick.
+
+0 didn't infect 87 because is already vaccinated or already sick.
+
+0 didn't infect 92 because is already vaccinated or already sick.
+
+0 didn't infect 14 because is already vaccinated or already sick.
+
+0 didn't infect 87 because is already vaccinated or already sick.
+
+0 didn't infect 68 because is already vaccinated or already sick.
+
+0 didn't infect 96 because is already vaccinated or already sick.
+
+0 didn't infect 82 because is already vaccinated or already sick.
+
+0 infects 43
+
+0 didn't infect 55 because is already vaccinated or already sick.
+
+0 didn't infect 20 because is already vaccinated or already sick.
+
+0 didn't infect 58 because is already vaccinated or already sick.
+
+0 didn't infect 92 because is already vaccinated or already sick.
+
+0 didn't infect 92 because is already vaccinated or already sick.
+
+0 didn't infect 33 because is already vaccinated or already sick.
+
+0 didn't infect 64 because is already vaccinated or already sick.
+
+0 didn't infect 97 because is already vaccinated or already sick.
+
+0 didn't infect 22 because is already vaccinated or already sick.
+
+0 didn't infect 64 because is already vaccinated or already sick.
+
+0 didn't infect 13 because is already vaccinated or already sick.
+
+0 didn't infect 80 because is already vaccinated or already sick.
+
+0 didn't infect 38 because is already vaccinated or already sick.
+
+0 didn't infect 81 because is already vaccinated or already sick.
+
+0 didn't infect 25 because is already vaccinated or already sick.
+
+0 didn't infect 19 because is already vaccinated or already sick.
+
+0 didn't infect 47 because is already vaccinated or already sick.
+
+0 didn't infect 97 because is already vaccinated or already sick.
+
+0 didn't infect 20 because is already vaccinated or already sick.
+
+0 didn't infect 69 because is already vaccinated or already sick.
+
+0 didn't infect 99 because is already vaccinated or already sick.
+
+0 didn't infect 67 because is already vaccinated or already sick.
+
+0 didn't infect 76 because is already vaccinated or already sick.
+
+0 didn't infect 41 because is already vaccinated or already sick.
+
+0 didn't infect 62 because is already vaccinated or already sick.
+
+0 didn't infect 2 because is already vaccinated or already sick.
+
+0 didn't infect 14 because is already vaccinated or already sick.
+
+0 didn't infect 46 because is already vaccinated or already sick.
+
+0 didn't infect 39 because is already vaccinated or already sick.
+
+0 didn't infect 30 because is already vaccinated or already sick.
+
+0 didn't infect 7 because is already vaccinated or already sick.
+
+0 didn't infect 30 because is already vaccinated or already sick.
+
+0 didn't infect 72 because is already vaccinated or already sick.
+
+0 didn't infect 10 because is already vaccinated or already sick.
+
+0 didn't infect 10 because is already vaccinated or already sick.
+
+0 didn't infect 93 because is already vaccinated or already sick.
+
+0 didn't infect 62 because is already vaccinated or already sick.
+
+0 didn't infect 8 because is already vaccinated or already sick.
+
+0 didn't infect 97 because is already vaccinated or already sick.
+
+0 didn't infect 68 because is already vaccinated or already sick.
+
+0 didn't infect 98 because is already vaccinated or already sick.
+
+0 didn't infect 16 because is already vaccinated or already sick.
+
+0 didn't infect 16 because is already vaccinated or already sick.
+
+0 didn't infect 84 because is already vaccinated or already sick.
+
+0 didn't infect 60 because is already vaccinated or already sick.
+
+0 infects 70
+
+0 didn't infect 67 because is already vaccinated or already sick.
+
+0 didn't infect 77 because is already vaccinated or already sick.
+
+0 didn't infect 54 because is already vaccinated or already sick.
+
+0 didn't infect 27 because is already vaccinated or already sick.
+
+0 didn't infect 69 because is already vaccinated or already sick.
+
+0 didn't infect 96 because is already vaccinated or already sick.
+
+0 didn't infect 25 because is already vaccinated or already sick.
+
+0 didn't infect 91 because is already vaccinated or already sick.
+
+0 didn't infect 39 because is already vaccinated or already sick.
+
+0 didn't infect 51 because is already vaccinated or already sick.
+
+0 didn't infect 85 because is already vaccinated or already sick.
+
+0 didn't infect 83 because is already vaccinated or already sick.
+
+0 didn't infect 47 because is already vaccinated or already sick.
+
+0 didn't infect 56 because is already vaccinated or already sick.
+
+0 didn't infect 66 because is already vaccinated or already sick.
+
+0 didn't infect 57 because is already vaccinated or already sick.
+
+0 didn't infect 15 because is already vaccinated or already sick.
+
+0 didn't infect 31 because is already vaccinated or already sick.
+
+0 didn't infect 28 because is already vaccinated or already sick.
+
+0 didn't infect 8 because is already vaccinated or already sick.
+
+0 infects 43
+
+0 infects 70
+
+0 didn't infect 28 because is already vaccinated or already sick.
+
+0 didn't infect 9 because is already vaccinated or already sick.
+
+0 didn't infect 90 because is already vaccinated or already sick.
+
+0 didn't infect 80 because is already vaccinated or already sick.
+
+0 didn't infect 7 because is already vaccinated or already sick.
+
+0 didn't infect 29 because is already vaccinated or already sick.
+
+0 didn't infect 8 because is already vaccinated or already sick.
+
+0 didn't infect 4 because is already vaccinated or already sick.
+0 died from infection
+
+2 didn't infect 31 because is already vaccinated or already sick.
+
+2 didn't infect 36 because is already vaccinated or already sick.
+
+2 didn't infect 86 because is already vaccinated or already sick.
+
+2 infects 70
+
+2 didn't infect 74 because is already vaccinated or already sick.
+
+2 didn't infect 74 because is already vaccinated or already sick.
+
+2 didn't infect 61 because is already vaccinated or already sick.
+
+2 didn't infect 32 because is already vaccinated or already sick.
+
+2 didn't infect 61 because is already vaccinated or already sick.
+
+2 didn't infect 53 because is already vaccinated or already sick.
+
+2 didn't infect 25 because is already vaccinated or already sick.
+
+2 didn't infect 13 because is already vaccinated or already sick.
+
+2 didn't infect 13 because is already vaccinated or already sick.
+
+2 didn't infect 85 because is already vaccinated or already sick.
+
+2 didn't infect 56 because is already vaccinated or already sick.
+
+2 didn't infect 46 because is already vaccinated or already sick.
+
+2 didn't infect 55 because is already vaccinated or already sick.
+
+2 didn't infect 53 because is already vaccinated or already sick.
+
+2 didn't infect 60 because is already vaccinated or already sick.
+
+2 didn't infect 94 because is already vaccinated or already sick.
+
+2 didn't infect 7 because is already vaccinated or already sick.
+
+2 didn't infect 87 because is already vaccinated or already sick.
+
+2 didn't infect 84 because is already vaccinated or already sick.
+
+2 didn't infect 83 because is already vaccinated or already sick.
+
+2 didn't infect 13 because is already vaccinated or already sick.
+
+2 didn't infect 8 because is already vaccinated or already sick.
+
+2 didn't infect 52 because is already vaccinated or already sick.
+
+2 didn't infect 94 because is already vaccinated or already sick.
+
+2 didn't infect 44 because is already vaccinated or already sick.
+
+2 didn't infect 14 because is already vaccinated or already sick.
+
+2 didn't infect 32 because is already vaccinated or already sick.
+
+2 didn't infect 25 because is already vaccinated or already sick.
+
+2 didn't infect 25 because is already vaccinated or already sick.
+
+2 didn't infect 69 because is already vaccinated or already sick.
+
+2 didn't infect 58 because is already vaccinated or already sick.
+
+2 didn't infect 18 because is already vaccinated or already sick.
+
+2 didn't infect 55 because is already vaccinated or already sick.
+
+2 didn't infect 24 because is already vaccinated or already sick.
+
+2 didn't infect 36 because is already vaccinated or already sick.
+
+2 didn't infect 60 because is already vaccinated or already sick.
+
+2 didn't infect 32 because is already vaccinated or already sick.
+
+2 didn't infect 10 because is already vaccinated or already sick.
+
+2 didn't infect 57 because is already vaccinated or already sick.
+
+2 didn't infect 71 because is already vaccinated or already sick.
+
+2 didn't infect 13 because is already vaccinated or already sick.
+
+2 didn't infect 7 because is already vaccinated or already sick.
+
+2 didn't infect 84 because is already vaccinated or already sick.
+
+2 didn't infect 70 because is already vaccinated or already sick.
+
+2 didn't infect 12 because is already vaccinated or already sick.
+
+2 didn't infect 97 because is already vaccinated or already sick.
+
+2 didn't infect 31 because is already vaccinated or already sick.
+
+2 didn't infect 22 because is already vaccinated or already sick.
+
+2 didn't infect 53 because is already vaccinated or already sick.
+
+2 didn't infect 63 because is already vaccinated or already sick.
+
+2 didn't infect 52 because is already vaccinated or already sick.
+
+2 didn't infect 8 because is already vaccinated or already sick.
+
+2 didn't infect 22 because is already vaccinated or already sick.
+
+2 didn't infect 49 because is already vaccinated or already sick.
+
+2 didn't infect 1 because is already vaccinated or already sick.
+
+2 didn't infect 50 because is already vaccinated or already sick.
+
+2 didn't infect 34 because is already vaccinated or already sick.
+
+2 didn't infect 59 because is already vaccinated or already sick.
+
+2 didn't infect 37 because is already vaccinated or already sick.
+
+2 didn't infect 55 because is already vaccinated or already sick.
+
+2 didn't infect 90 because is already vaccinated or already sick.
+
+2 didn't infect 94 because is already vaccinated or already sick.
+
+2 didn't infect 72 because is already vaccinated or already sick.
+
+2 didn't infect 85 because is already vaccinated or already sick.
+
+2 didn't infect 92 because is already vaccinated or already sick.
+
+2 infects 63
+
+2 didn't infect 38 because is already vaccinated or already sick.
+
+2 didn't infect 28 because is already vaccinated or already sick.
+
+2 didn't infect 8 because is already vaccinated or already sick.
+
+2 didn't infect 75 because is already vaccinated or already sick.
+
+2 didn't infect 95 because is already vaccinated or already sick.
+
+2 infects 70
+
+2 didn't infect 41 because is already vaccinated or already sick.
+
+2 didn't infect 8 because is already vaccinated or already sick.
+
+2 didn't infect 7 because is already vaccinated or already sick.
+
+2 didn't infect 75 because is already vaccinated or already sick.
+
+2 didn't infect 62 because is already vaccinated or already sick.
+
+2 didn't infect 65 because is already vaccinated or already sick.
+
+2 didn't infect 68 because is already vaccinated or already sick.
+
+2 didn't infect 21 because is already vaccinated or already sick.
+
+2 didn't infect 8 because is already vaccinated or already sick.
+
+2 didn't infect 66 because is already vaccinated or already sick.
+
+2 didn't infect 11 because is already vaccinated or already sick.
+
+2 didn't infect 24 because is already vaccinated or already sick.
+
+2 didn't infect 9 because is already vaccinated or already sick.
+
+2 didn't infect 77 because is already vaccinated or already sick.
+
+2 didn't infect 9 because is already vaccinated or already sick.
+
+2 didn't infect 87 because is already vaccinated or already sick.
+
+2 didn't infect 31 because is already vaccinated or already sick.
+
+2 didn't infect 52 because is already vaccinated or already sick.
+
+2 didn't infect 16 because is already vaccinated or already sick.
+
+2 didn't infect 73 because is already vaccinated or already sick.
+
+2 didn't infect 32 because is already vaccinated or already sick.
+
+2 didn't infect 75 because is already vaccinated or already sick.
+
+2 didn't infect 77 because is already vaccinated or already sick.
+
+2 didn't infect 6 because is already vaccinated or already sick.
+2 died from infection
+
+4 didn't infect 76 because is already vaccinated or already sick.
+
+4 didn't infect 74 because is already vaccinated or already sick.
+
+4 didn't infect 68 because is already vaccinated or already sick.
+
+4 didn't infect 42 because is already vaccinated or already sick.
+
+4 didn't infect 35 because is already vaccinated or already sick.
+
+4 didn't infect 28 because is already vaccinated or already sick.
+
+4 didn't infect 87 because is already vaccinated or already sick.
+
+4 didn't infect 93 because is already vaccinated or already sick.
+
+4 didn't infect 42 because is already vaccinated or already sick.
+
+4 didn't infect 32 because is already vaccinated or already sick.
+
+4 didn't infect 35 because is already vaccinated or already sick.
+
+4 didn't infect 52 because is already vaccinated or already sick.
+
+4 didn't infect 18 because is already vaccinated or already sick.
+
+4 didn't infect 87 because is already vaccinated or already sick.
+
+4 didn't infect 84 because is already vaccinated or already sick.
+
+4 didn't infect 40 because is already vaccinated or already sick.
+
+4 didn't infect 60 because is already vaccinated or already sick.
+
+4 didn't infect 42 because is already vaccinated or already sick.
+
+4 didn't infect 98 because is already vaccinated or already sick.
+
+4 didn't infect 11 because is already vaccinated or already sick.
+
+4 didn't infect 3 because is already vaccinated or already sick.
+
+4 didn't infect 60 because is already vaccinated or already sick.
+
+4 didn't infect 81 because is already vaccinated or already sick.
+
+4 didn't infect 14 because is already vaccinated or already sick.
+
+4 didn't infect 11 because is already vaccinated or already sick.
+
+4 infects 70
+
+4 didn't infect 35 because is already vaccinated or already sick.
+
+4 didn't infect 18 because is already vaccinated or already sick.
+
+4 didn't infect 46 because is already vaccinated or already sick.
+
+4 didn't infect 10 because is already vaccinated or already sick.
+
+4 didn't infect 33 because is already vaccinated or already sick.
+
+4 didn't infect 49 because is already vaccinated or already sick.
+
+4 didn't infect 38 because is already vaccinated or already sick.
+
+4 didn't infect 22 because is already vaccinated or already sick.
+
+4 didn't infect 58 because is already vaccinated or already sick.
+
+4 didn't infect 71 because is already vaccinated or already sick.
+
+4 didn't infect 92 because is already vaccinated or already sick.
+
+4 didn't infect 40 because is already vaccinated or already sick.
+
+4 didn't infect 80 because is already vaccinated or already sick.
+
+4 didn't infect 85 because is already vaccinated or already sick.
+
+4 didn't infect 69 because is already vaccinated or already sick.
+
+4 didn't infect 3 because is already vaccinated or already sick.
+
+4 didn't infect 87 because is already vaccinated or already sick.
+
+4 didn't infect 72 because is already vaccinated or already sick.
+
+4 didn't infect 40 because is already vaccinated or already sick.
+
+4 infects 86
+
+4 didn't infect 19 because is already vaccinated or already sick.
+
+4 didn't infect 35 because is already vaccinated or already sick.
+
+4 didn't infect 16 because is already vaccinated or already sick.
+
+4 didn't infect 15 because is already vaccinated or already sick.
+
+4 didn't infect 97 because is already vaccinated or already sick.
+
+4 didn't infect 72 because is already vaccinated or already sick.
+
+4 didn't infect 21 because is already vaccinated or already sick.
+
+4 didn't infect 36 because is already vaccinated or already sick.
+
+4 didn't infect 38 because is already vaccinated or already sick.
+
+4 didn't infect 79 because is already vaccinated or already sick.
+
+4 didn't infect 28 because is already vaccinated or already sick.
+
+4 didn't infect 93 because is already vaccinated or already sick.
+
+4 didn't infect 45 because is already vaccinated or already sick.
+
+4 didn't infect 28 because is already vaccinated or already sick.
+
+4 didn't infect 89 because is already vaccinated or already sick.
+
+4 didn't infect 83 because is already vaccinated or already sick.
+
+4 didn't infect 35 because is already vaccinated or already sick.
+
+4 didn't infect 66 because is already vaccinated or already sick.
+
+4 didn't infect 64 because is already vaccinated or already sick.
+
+4 didn't infect 34 because is already vaccinated or already sick.
+
+4 didn't infect 8 because is already vaccinated or already sick.
+
+4 didn't infect 13 because is already vaccinated or already sick.
+
+4 didn't infect 83 because is already vaccinated or already sick.
+
+4 didn't infect 56 because is already vaccinated or already sick.
+
+4 didn't infect 37 because is already vaccinated or already sick.
+
+4 didn't infect 7 because is already vaccinated or already sick.
+
+4 didn't infect 1 because is already vaccinated or already sick.
+
+4 didn't infect 44 because is already vaccinated or already sick.
+
+4 didn't infect 18 because is already vaccinated or already sick.
+
+4 didn't infect 83 because is already vaccinated or already sick.
+
+4 didn't infect 35 because is already vaccinated or already sick.
+
+4 didn't infect 22 because is already vaccinated or already sick.
+
+4 didn't infect 96 because is already vaccinated or already sick.
+
+4 didn't infect 92 because is already vaccinated or already sick.
+
+4 didn't infect 56 because is already vaccinated or already sick.
+
+4 didn't infect 73 because is already vaccinated or already sick.
+
+4 didn't infect 3 because is already vaccinated or already sick.
+
+4 didn't infect 16 because is already vaccinated or already sick.
+
+4 didn't infect 11 because is already vaccinated or already sick.
+
+4 didn't infect 90 because is already vaccinated or already sick.
+
+4 didn't infect 21 because is already vaccinated or already sick.
+
+4 didn't infect 71 because is already vaccinated or already sick.
+
+4 didn't infect 6 because is already vaccinated or already sick.
+
+4 didn't infect 49 because is already vaccinated or already sick.
+
+4 didn't infect 76 because is already vaccinated or already sick.
+
+4 didn't infect 72 because is already vaccinated or already sick.
+
+4 didn't infect 20 because is already vaccinated or already sick.
+
+4 didn't infect 57 because is already vaccinated or already sick.
+
+4 didn't infect 18 because is already vaccinated or already sick.
+
+4 didn't infect 7 because is already vaccinated or already sick.
+
+4 didn't infect 41 because is already vaccinated or already sick.
+
+4 didn't infect 48 because is already vaccinated or already sick.
+
+4 didn't infect 7 because is already vaccinated or already sick.
+
+4 didn't infect 47 because is already vaccinated or already sick.
+4 died from infection
+
+6 didn't infect 16 because is already vaccinated or already sick.
+
+6 didn't infect 48 because is already vaccinated or already sick.
+
+6 didn't infect 74 because is already vaccinated or already sick.
+
+6 didn't infect 55 because is already vaccinated or already sick.
+
+6 didn't infect 82 because is already vaccinated or already sick.
+
+6 didn't infect 98 because is already vaccinated or already sick.
+
+6 didn't infect 22 because is already vaccinated or already sick.
+
+6 didn't infect 33 because is already vaccinated or already sick.
+
+6 didn't infect 23 because is already vaccinated or already sick.
+
+6 didn't infect 25 because is already vaccinated or already sick.
+
+6 didn't infect 55 because is already vaccinated or already sick.
+
+6 didn't infect 25 because is already vaccinated or already sick.
+
+6 didn't infect 97 because is already vaccinated or already sick.
+
+6 didn't infect 45 because is already vaccinated or already sick.
+
+6 didn't infect 55 because is already vaccinated or already sick.
+
+6 didn't infect 88 because is already vaccinated or already sick.
+
+6 didn't infect 97 because is already vaccinated or already sick.
+
+6 didn't infect 34 because is already vaccinated or already sick.
+
+6 didn't infect 92 because is already vaccinated or already sick.
+
+6 didn't infect 16 because is already vaccinated or already sick.
+
+6 didn't infect 51 because is already vaccinated or already sick.
+
+6 didn't infect 7 because is already vaccinated or already sick.
+
+6 infects 63
+
+6 didn't infect 61 because is already vaccinated or already sick.
+
+6 didn't infect 47 because is already vaccinated or already sick.
+
+6 didn't infect 42 because is already vaccinated or already sick.
+
+6 didn't infect 32 because is already vaccinated or already sick.
+
+6 didn't infect 31 because is already vaccinated or already sick.
+
+6 didn't infect 87 because is already vaccinated or already sick.
+
+6 didn't infect 27 because is already vaccinated or already sick.
+
+6 didn't infect 54 because is already vaccinated or already sick.
+
+6 didn't infect 45 because is already vaccinated or already sick.
+
+6 didn't infect 38 because is already vaccinated or already sick.
+
+6 didn't infect 11 because is already vaccinated or already sick.
+
+6 didn't infect 38 because is already vaccinated or already sick.
+
+6 didn't infect 47 because is already vaccinated or already sick.
+
+6 didn't infect 85 because is already vaccinated or already sick.
+
+6 didn't infect 68 because is already vaccinated or already sick.
+
+6 didn't infect 54 because is already vaccinated or already sick.
+
+6 didn't infect 89 because is already vaccinated or already sick.
+
+6 didn't infect 71 because is already vaccinated or already sick.
+
+6 didn't infect 45 because is already vaccinated or already sick.
+
+6 didn't infect 17 because is already vaccinated or already sick.
+
+6 didn't infect 36 because is already vaccinated or already sick.
+
+6 didn't infect 25 because is already vaccinated or already sick.
+
+6 didn't infect 77 because is already vaccinated or already sick.
+
+6 didn't infect 36 because is already vaccinated or already sick.
+
+6 didn't infect 7 because is already vaccinated or already sick.
+
+6 didn't infect 16 because is already vaccinated or already sick.
+
+6 didn't infect 79 because is already vaccinated or already sick.
+
+6 didn't infect 58 because is already vaccinated or already sick.
+
+6 didn't infect 47 because is already vaccinated or already sick.
+
+6 didn't infect 96 because is already vaccinated or already sick.
+
+6 didn't infect 58 because is already vaccinated or already sick.
+
+6 didn't infect 80 because is already vaccinated or already sick.
+
+6 didn't infect 68 because is already vaccinated or already sick.
+
+6 didn't infect 17 because is already vaccinated or already sick.
+
+6 didn't infect 52 because is already vaccinated or already sick.
+
+6 didn't infect 76 because is already vaccinated or already sick.
+
+6 didn't infect 27 because is already vaccinated or already sick.
+
+6 didn't infect 35 because is already vaccinated or already sick.
+
+6 didn't infect 8 because is already vaccinated or already sick.
+
+6 didn't infect 93 because is already vaccinated or already sick.
+
+6 didn't infect 58 because is already vaccinated or already sick.
+
+6 didn't infect 1 because is already vaccinated or already sick.
+
+6 didn't infect 69 because is already vaccinated or already sick.
+
+6 didn't infect 71 because is already vaccinated or already sick.
+
+6 didn't infect 90 because is already vaccinated or already sick.
+
+6 didn't infect 95 because is already vaccinated or already sick.
+
+6 didn't infect 97 because is already vaccinated or already sick.
+
+6 didn't infect 97 because is already vaccinated or already sick.
+
+6 didn't infect 88 because is already vaccinated or already sick.
+
+6 didn't infect 28 because is already vaccinated or already sick.
+
+6 didn't infect 49 because is already vaccinated or already sick.
+
+6 didn't infect 58 because is already vaccinated or already sick.
+
+6 didn't infect 11 because is already vaccinated or already sick.
+
+6 didn't infect 88 because is already vaccinated or already sick.
+
+6 didn't infect 45 because is already vaccinated or already sick.
+
+6 didn't infect 82 because is already vaccinated or already sick.
+
+6 didn't infect 43 because is already vaccinated or already sick.
+
+6 didn't infect 18 because is already vaccinated or already sick.
+
+6 didn't infect 95 because is already vaccinated or already sick.
+
+6 didn't infect 41 because is already vaccinated or already sick.
+
+6 didn't infect 67 because is already vaccinated or already sick.
+
+6 didn't infect 42 because is already vaccinated or already sick.
+
+6 didn't infect 88 because is already vaccinated or already sick.
+
+6 didn't infect 55 because is already vaccinated or already sick.
+
+6 didn't infect 44 because is already vaccinated or already sick.
+
+6 didn't infect 54 because is already vaccinated or already sick.
+
+6 didn't infect 92 because is already vaccinated or already sick.
+
+6 didn't infect 40 because is already vaccinated or already sick.
+
+6 didn't infect 73 because is already vaccinated or already sick.
+
+6 didn't infect 19 because is already vaccinated or already sick.
+
+6 didn't infect 27 because is already vaccinated or already sick.
+
+6 didn't infect 56 because is already vaccinated or already sick.
+
+6 didn't infect 88 because is already vaccinated or already sick.
+
+6 didn't infect 51 because is already vaccinated or already sick.
+
+6 didn't infect 89 because is already vaccinated or already sick.
+
+6 didn't infect 98 because is already vaccinated or already sick.
+
+6 didn't infect 25 because is already vaccinated or already sick.
+6 died from infection
+
+8 didn't infect 74 because is already vaccinated or already sick.
+
+8 didn't infect 1 because is already vaccinated or already sick.
+
+8 didn't infect 42 because is already vaccinated or already sick.
+
+8 didn't infect 40 because is already vaccinated or already sick.
+
+8 didn't infect 30 because is already vaccinated or already sick.
+
+8 didn't infect 59 because is already vaccinated or already sick.
+
+8 didn't infect 78 because is already vaccinated or already sick.
+
+8 didn't infect 81 because is already vaccinated or already sick.
+
+8 didn't infect 63 because is already vaccinated or already sick.
+
+8 didn't infect 90 because is already vaccinated or already sick.
+
+8 didn't infect 31 because is already vaccinated or already sick.
+
+8 didn't infect 69 because is already vaccinated or already sick.
+
+8 didn't infect 64 because is already vaccinated or already sick.
+
+8 didn't infect 98 because is already vaccinated or already sick.
+
+8 didn't infect 25 because is already vaccinated or already sick.
+
+8 didn't infect 88 because is already vaccinated or already sick.
+
+8 didn't infect 14 because is already vaccinated or already sick.
+
+8 didn't infect 40 because is already vaccinated or already sick.
+
+8 didn't infect 69 because is already vaccinated or already sick.
+
+8 didn't infect 88 because is already vaccinated or already sick.
+
+8 didn't infect 85 because is already vaccinated or already sick.
+
+8 didn't infect 83 because is already vaccinated or already sick.
+
+8 didn't infect 46 because is already vaccinated or already sick.
+
+8 didn't infect 15 because is already vaccinated or already sick.
+
+8 didn't infect 34 because is already vaccinated or already sick.
+
+8 didn't infect 32 because is already vaccinated or already sick.
+
+8 didn't infect 29 because is already vaccinated or already sick.
+
+8 didn't infect 22 because is already vaccinated or already sick.
+
+8 didn't infect 7 because is already vaccinated or already sick.
+
+8 didn't infect 9 because is already vaccinated or already sick.
+
+8 didn't infect 35 because is already vaccinated or already sick.
+
+8 didn't infect 64 because is already vaccinated or already sick.
+
+8 didn't infect 82 because is already vaccinated or already sick.
+
+8 didn't infect 13 because is already vaccinated or already sick.
+
+8 didn't infect 62 because is already vaccinated or already sick.
+
+8 didn't infect 57 because is already vaccinated or already sick.
+
+8 didn't infect 84 because is already vaccinated or already sick.
+
+8 didn't infect 77 because is already vaccinated or already sick.
+
+8 didn't infect 28 because is already vaccinated or already sick.
+
+8 didn't infect 95 because is already vaccinated or already sick.
+
+8 didn't infect 93 because is already vaccinated or already sick.
+
+8 didn't infect 53 because is already vaccinated or already sick.
+
+8 didn't infect 67 because is already vaccinated or already sick.
+
+8 didn't infect 55 because is already vaccinated or already sick.
+
+8 didn't infect 35 because is already vaccinated or already sick.
+
+8 didn't infect 22 because is already vaccinated or already sick.
+
+8 didn't infect 87 because is already vaccinated or already sick.
+
+8 didn't infect 92 because is already vaccinated or already sick.
+
+8 didn't infect 1 because is already vaccinated or already sick.
+
+8 didn't infect 17 because is already vaccinated or already sick.
+
+8 didn't infect 58 because is already vaccinated or already sick.
+
+8 didn't infect 32 because is already vaccinated or already sick.
+
+8 didn't infect 26 because is already vaccinated or already sick.
+
+8 didn't infect 93 because is already vaccinated or already sick.
+
+8 didn't infect 70 because is already vaccinated or already sick.
+
+8 didn't infect 75 because is already vaccinated or already sick.
+
+8 didn't infect 35 because is already vaccinated or already sick.
+
+8 didn't infect 19 because is already vaccinated or already sick.
+
+8 didn't infect 62 because is already vaccinated or already sick.
+
+8 didn't infect 21 because is already vaccinated or already sick.
+
+8 didn't infect 63 because is already vaccinated or already sick.
+
+8 didn't infect 75 because is already vaccinated or already sick.
+
+8 didn't infect 80 because is already vaccinated or already sick.
+
+8 didn't infect 44 because is already vaccinated or already sick.
+
+8 didn't infect 60 because is already vaccinated or already sick.
+
+8 didn't infect 82 because is already vaccinated or already sick.
+
+8 didn't infect 96 because is already vaccinated or already sick.
+
+8 didn't infect 58 because is already vaccinated or already sick.
+
+8 didn't infect 74 because is already vaccinated or already sick.
+
+8 didn't infect 61 because is already vaccinated or already sick.
+
+8 didn't infect 24 because is already vaccinated or already sick.
+
+8 didn't infect 99 because is already vaccinated or already sick.
+
+8 didn't infect 64 because is already vaccinated or already sick.
+
+8 didn't infect 61 because is already vaccinated or already sick.
+
+8 didn't infect 37 because is already vaccinated or already sick.
+
+8 didn't infect 35 because is already vaccinated or already sick.
+
+8 didn't infect 85 because is already vaccinated or already sick.
+
+8 didn't infect 39 because is already vaccinated or already sick.
+
+8 didn't infect 70 because is already vaccinated or already sick.
+
+8 didn't infect 34 because is already vaccinated or already sick.
+
+8 didn't infect 13 because is already vaccinated or already sick.
+
+8 didn't infect 95 because is already vaccinated or already sick.
+
+8 didn't infect 40 because is already vaccinated or already sick.
+
+8 didn't infect 34 because is already vaccinated or already sick.
+
+8 didn't infect 44 because is already vaccinated or already sick.
+
+8 didn't infect 73 because is already vaccinated or already sick.
+
+8 didn't infect 14 because is already vaccinated or already sick.
+
+8 didn't infect 21 because is already vaccinated or already sick.
+
+8 didn't infect 23 because is already vaccinated or already sick.
+
+8 didn't infect 33 because is already vaccinated or already sick.
+
+8 didn't infect 53 because is already vaccinated or already sick.
+
+8 didn't infect 92 because is already vaccinated or already sick.
+
+8 didn't infect 23 because is already vaccinated or already sick.
+
+8 didn't infect 94 because is already vaccinated or already sick.
+
+8 didn't infect 31 because is already vaccinated or already sick.
+
+8 didn't infect 12 because is already vaccinated or already sick.
+
+8 didn't infect 57 because is already vaccinated or already sick.
+
+8 didn't infect 56 because is already vaccinated or already sick.
+
+8 didn't infect 46 because is already vaccinated or already sick.
+
+8 didn't infect 73 because is already vaccinated or already sick.
+8 died from infection
+Time step 1 ended, beginning time step 2
+
+
+1 didn't infect 58 because is already vaccinated or already sick.
+
+1 didn't infect 54 because is already vaccinated or already sick.
+
+1 didn't infect 79 because is already vaccinated or already sick.
+
+1 didn't infect 94 because is already vaccinated or already sick.
+
+1 didn't infect 5 because is already vaccinated or already sick.
+
+1 didn't infect 78 because is already vaccinated or already sick.
+
+1 didn't infect 53 because is already vaccinated or already sick.
+
+1 didn't infect 66 because is already vaccinated or already sick.
+
+1 didn't infect 50 because is already vaccinated or already sick.
+
+1 didn't infect 43 because is already vaccinated or already sick.
+
+1 didn't infect 54 because is already vaccinated or already sick.
+
+1 didn't infect 58 because is already vaccinated or already sick.
+
+1 didn't infect 73 because is already vaccinated or already sick.
+
+1 didn't infect 99 because is already vaccinated or already sick.
+
+1 didn't infect 74 because is already vaccinated or already sick.
+
+1 didn't infect 82 because is already vaccinated or already sick.
+
+1 didn't infect 33 because is already vaccinated or already sick.
+
+1 didn't infect 67 because is already vaccinated or already sick.
+
+1 didn't infect 33 because is already vaccinated or already sick.
+
+1 didn't infect 39 because is already vaccinated or already sick.
+
+1 didn't infect 60 because is already vaccinated or already sick.
+
+1 didn't infect 67 because is already vaccinated or already sick.
+
+1 didn't infect 7 because is already vaccinated or already sick.
+
+1 didn't infect 54 because is already vaccinated or already sick.
+
+1 didn't infect 48 because is already vaccinated or already sick.
+
+1 didn't infect 90 because is already vaccinated or already sick.
+
+1 didn't infect 91 because is already vaccinated or already sick.
+
+1 didn't infect 56 because is already vaccinated or already sick.
+
+1 didn't infect 97 because is already vaccinated or already sick.
+
+1 didn't infect 26 because is already vaccinated or already sick.
+
+1 didn't infect 64 because is already vaccinated or already sick.
+
+1 didn't infect 21 because is already vaccinated or already sick.
+
+1 didn't infect 84 because is already vaccinated or already sick.
+
+1 didn't infect 73 because is already vaccinated or already sick.
+
+1 didn't infect 7 because is already vaccinated or already sick.
+
+1 didn't infect 55 because is already vaccinated or already sick.
+
+1 didn't infect 80 because is already vaccinated or already sick.
+
+1 didn't infect 77 because is already vaccinated or already sick.
+
+1 didn't infect 89 because is already vaccinated or already sick.
+
+1 didn't infect 7 because is already vaccinated or already sick.
+
+1 didn't infect 15 because is already vaccinated or already sick.
+
+1 didn't infect 87 because is already vaccinated or already sick.
+
+1 didn't infect 59 because is already vaccinated or already sick.
+
+1 didn't infect 22 because is already vaccinated or already sick.
+
+1 didn't infect 64 because is already vaccinated or already sick.
+
+1 didn't infect 28 because is already vaccinated or already sick.
+
+1 didn't infect 11 because is already vaccinated or already sick.
+
+1 didn't infect 38 because is already vaccinated or already sick.
+
+1 didn't infect 53 because is already vaccinated or already sick.
+
+1 didn't infect 46 because is already vaccinated or already sick.
+
+1 didn't infect 32 because is already vaccinated or already sick.
+
+1 didn't infect 63 because is already vaccinated or already sick.
+
+1 didn't infect 46 because is already vaccinated or already sick.
+
+1 didn't infect 48 because is already vaccinated or already sick.
+
+1 didn't infect 53 because is already vaccinated or already sick.
+
+1 didn't infect 40 because is already vaccinated or already sick.
+
+1 didn't infect 58 because is already vaccinated or already sick.
+
+1 didn't infect 37 because is already vaccinated or already sick.
+
+1 didn't infect 15 because is already vaccinated or already sick.
+
+1 didn't infect 65 because is already vaccinated or already sick.
+
+1 didn't infect 5 because is already vaccinated or already sick.
+
+1 didn't infect 74 because is already vaccinated or already sick.
+
+1 didn't infect 11 because is already vaccinated or already sick.
+
+1 didn't infect 49 because is already vaccinated or already sick.
+
+1 didn't infect 33 because is already vaccinated or already sick.
+
+1 didn't infect 88 because is already vaccinated or already sick.
+
+1 didn't infect 13 because is already vaccinated or already sick.
+
+1 didn't infect 88 because is already vaccinated or already sick.
+
+1 didn't infect 10 because is already vaccinated or already sick.
+
+1 didn't infect 7 because is already vaccinated or already sick.
+
+1 didn't infect 36 because is already vaccinated or already sick.
+
+1 didn't infect 30 because is already vaccinated or already sick.
+
+1 didn't infect 5 because is already vaccinated or already sick.
+
+1 didn't infect 84 because is already vaccinated or already sick.
+
+1 didn't infect 24 because is already vaccinated or already sick.
+
+1 didn't infect 35 because is already vaccinated or already sick.
+
+1 didn't infect 21 because is already vaccinated or already sick.
+
+1 didn't infect 65 because is already vaccinated or already sick.
+
+1 didn't infect 90 because is already vaccinated or already sick.
+
+1 didn't infect 19 because is already vaccinated or already sick.
+
+1 didn't infect 77 because is already vaccinated or already sick.
+
+1 didn't infect 32 because is already vaccinated or already sick.
+
+1 didn't infect 64 because is already vaccinated or already sick.
+
+1 didn't infect 94 because is already vaccinated or already sick.
+
+1 didn't infect 37 because is already vaccinated or already sick.
+
+1 didn't infect 52 because is already vaccinated or already sick.
+
+1 didn't infect 26 because is already vaccinated or already sick.
+
+1 didn't infect 82 because is already vaccinated or already sick.
+
+1 didn't infect 82 because is already vaccinated or already sick.
+
+1 infects 96
+
+1 didn't infect 25 because is already vaccinated or already sick.
+
+1 didn't infect 44 because is already vaccinated or already sick.
+
+1 didn't infect 18 because is already vaccinated or already sick.
+
+1 didn't infect 79 because is already vaccinated or already sick.
+
+1 didn't infect 7 because is already vaccinated or already sick.
+
+1 didn't infect 44 because is already vaccinated or already sick.
+
+1 didn't infect 78 because is already vaccinated or already sick.
+
+1 didn't infect 91 because is already vaccinated or already sick.
+
+1 didn't infect 53 because is already vaccinated or already sick.
+
+1 didn't infect 55 because is already vaccinated or already sick.
+1 died from infection
+
+5 didn't infect 81 because is already vaccinated or already sick.
+
+5 didn't infect 86 because is already vaccinated or already sick.
+
+5 didn't infect 37 because is already vaccinated or already sick.
+
+5 didn't infect 19 because is already vaccinated or already sick.
+
+5 didn't infect 95 because is already vaccinated or already sick.
+
+5 didn't infect 44 because is already vaccinated or already sick.
+
+5 didn't infect 93 because is already vaccinated or already sick.
+
+5 didn't infect 82 because is already vaccinated or already sick.
+
+5 didn't infect 21 because is already vaccinated or already sick.
+
+5 didn't infect 78 because is already vaccinated or already sick.
+
+5 didn't infect 11 because is already vaccinated or already sick.
+
+5 didn't infect 50 because is already vaccinated or already sick.
+
+5 didn't infect 74 because is already vaccinated or already sick.
+
+5 didn't infect 60 because is already vaccinated or already sick.
+
+5 didn't infect 90 because is already vaccinated or already sick.
+
+5 didn't infect 53 because is already vaccinated or already sick.
+
+5 didn't infect 14 because is already vaccinated or already sick.
+
+5 didn't infect 70 because is already vaccinated or already sick.
+
+5 didn't infect 88 because is already vaccinated or already sick.
+
+5 didn't infect 49 because is already vaccinated or already sick.
+
+5 didn't infect 59 because is already vaccinated or already sick.
+
+5 didn't infect 68 because is already vaccinated or already sick.
+
+5 didn't infect 19 because is already vaccinated or already sick.
+
+5 didn't infect 61 because is already vaccinated or already sick.
+
+5 didn't infect 52 because is already vaccinated or already sick.
+
+5 didn't infect 87 because is already vaccinated or already sick.
+
+5 didn't infect 64 because is already vaccinated or already sick.
+
+5 infects 96
+
+5 didn't infect 28 because is already vaccinated or already sick.
+
+5 didn't infect 99 because is already vaccinated or already sick.
+
+5 didn't infect 72 because is already vaccinated or already sick.
+
+5 didn't infect 89 because is already vaccinated or already sick.
+
+5 didn't infect 40 because is already vaccinated or already sick.
+
+5 didn't infect 84 because is already vaccinated or already sick.
+
+5 didn't infect 74 because is already vaccinated or already sick.
+
+5 didn't infect 67 because is already vaccinated or already sick.
+
+5 didn't infect 65 because is already vaccinated or already sick.
+
+5 didn't infect 61 because is already vaccinated or already sick.
+
+5 didn't infect 99 because is already vaccinated or already sick.
+
+5 didn't infect 81 because is already vaccinated or already sick.
+
+5 didn't infect 37 because is already vaccinated or already sick.
+
+5 didn't infect 17 because is already vaccinated or already sick.
+
+5 didn't infect 41 because is already vaccinated or already sick.
+
+5 didn't infect 63 because is already vaccinated or already sick.
+
+5 didn't infect 37 because is already vaccinated or already sick.
+
+5 didn't infect 65 because is already vaccinated or already sick.
+
+5 didn't infect 78 because is already vaccinated or already sick.
+
+5 didn't infect 84 because is already vaccinated or already sick.
+
+5 didn't infect 91 because is already vaccinated or already sick.
+
+5 didn't infect 54 because is already vaccinated or already sick.
+
+5 didn't infect 49 because is already vaccinated or already sick.
+
+5 didn't infect 9 because is already vaccinated or already sick.
+
+5 didn't infect 69 because is already vaccinated or already sick.
+
+5 didn't infect 47 because is already vaccinated or already sick.
+
+5 didn't infect 29 because is already vaccinated or already sick.
+
+5 didn't infect 68 because is already vaccinated or already sick.
+
+5 didn't infect 33 because is already vaccinated or already sick.
+
+5 didn't infect 51 because is already vaccinated or already sick.
+
+5 didn't infect 39 because is already vaccinated or already sick.
+
+5 didn't infect 49 because is already vaccinated or already sick.
+
+5 didn't infect 41 because is already vaccinated or already sick.
+
+5 didn't infect 82 because is already vaccinated or already sick.
+
+5 didn't infect 95 because is already vaccinated or already sick.
+
+5 didn't infect 41 because is already vaccinated or already sick.
+
+5 didn't infect 77 because is already vaccinated or already sick.
+
+5 didn't infect 72 because is already vaccinated or already sick.
+
+5 didn't infect 30 because is already vaccinated or already sick.
+
+5 didn't infect 16 because is already vaccinated or already sick.
+
+5 didn't infect 36 because is already vaccinated or already sick.
+
+5 didn't infect 98 because is already vaccinated or already sick.
+
+5 didn't infect 58 because is already vaccinated or already sick.
+
+5 didn't infect 68 because is already vaccinated or already sick.
+
+5 didn't infect 77 because is already vaccinated or already sick.
+
+5 didn't infect 36 because is already vaccinated or already sick.
+
+5 didn't infect 94 because is already vaccinated or already sick.
+
+5 didn't infect 66 because is already vaccinated or already sick.
+
+5 didn't infect 88 because is already vaccinated or already sick.
+
+5 didn't infect 97 because is already vaccinated or already sick.
+
+5 didn't infect 68 because is already vaccinated or already sick.
+
+5 didn't infect 63 because is already vaccinated or already sick.
+
+5 didn't infect 7 because is already vaccinated or already sick.
+
+5 didn't infect 17 because is already vaccinated or already sick.
+
+5 didn't infect 43 because is already vaccinated or already sick.
+
+5 didn't infect 34 because is already vaccinated or already sick.
+
+5 didn't infect 37 because is already vaccinated or already sick.
+
+5 didn't infect 45 because is already vaccinated or already sick.
+
+5 didn't infect 90 because is already vaccinated or already sick.
+
+5 didn't infect 80 because is already vaccinated or already sick.
+
+5 didn't infect 53 because is already vaccinated or already sick.
+
+5 didn't infect 66 because is already vaccinated or already sick.
+
+5 didn't infect 76 because is already vaccinated or already sick.
+
+5 didn't infect 73 because is already vaccinated or already sick.
+
+5 didn't infect 50 because is already vaccinated or already sick.
+
+5 didn't infect 60 because is already vaccinated or already sick.
+
+5 didn't infect 76 because is already vaccinated or already sick.
+
+5 didn't infect 48 because is already vaccinated or already sick.
+
+5 didn't infect 51 because is already vaccinated or already sick.
+
+5 didn't infect 95 because is already vaccinated or already sick.
+
+5 didn't infect 64 because is already vaccinated or already sick.
+
+5 didn't infect 40 because is already vaccinated or already sick.
+5 died from infection
+
+9 didn't infect 99 because is already vaccinated or already sick.
+
+9 didn't infect 31 because is already vaccinated or already sick.
+
+9 didn't infect 47 because is already vaccinated or already sick.
+
+9 didn't infect 22 because is already vaccinated or already sick.
+
+9 didn't infect 75 because is already vaccinated or already sick.
+
+9 didn't infect 95 because is already vaccinated or already sick.
+
+9 didn't infect 30 because is already vaccinated or already sick.
+
+9 didn't infect 31 because is already vaccinated or already sick.
+
+9 didn't infect 34 because is already vaccinated or already sick.
+
+9 didn't infect 42 because is already vaccinated or already sick.
+
+9 didn't infect 99 because is already vaccinated or already sick.
+
+9 didn't infect 82 because is already vaccinated or already sick.
+
+9 didn't infect 74 because is already vaccinated or already sick.
+
+9 didn't infect 83 because is already vaccinated or already sick.
+
+9 didn't infect 43 because is already vaccinated or already sick.
+
+9 didn't infect 19 because is already vaccinated or already sick.
+
+9 didn't infect 31 because is already vaccinated or already sick.
+
+9 didn't infect 44 because is already vaccinated or already sick.
+
+9 didn't infect 36 because is already vaccinated or already sick.
+
+9 didn't infect 53 because is already vaccinated or already sick.
+
+9 didn't infect 29 because is already vaccinated or already sick.
+
+9 didn't infect 45 because is already vaccinated or already sick.
+
+9 didn't infect 7 because is already vaccinated or already sick.
+
+9 didn't infect 97 because is already vaccinated or already sick.
+
+9 didn't infect 75 because is already vaccinated or already sick.
+
+9 didn't infect 23 because is already vaccinated or already sick.
+
+9 didn't infect 42 because is already vaccinated or already sick.
+
+9 didn't infect 12 because is already vaccinated or already sick.
+
+9 didn't infect 13 because is already vaccinated or already sick.
+
+9 didn't infect 77 because is already vaccinated or already sick.
+
+9 didn't infect 44 because is already vaccinated or already sick.
+
+9 didn't infect 96 because is already vaccinated or already sick.
+
+9 didn't infect 88 because is already vaccinated or already sick.
+
+9 didn't infect 69 because is already vaccinated or already sick.
+
+9 didn't infect 20 because is already vaccinated or already sick.
+
+9 didn't infect 7 because is already vaccinated or already sick.
+
+9 didn't infect 80 because is already vaccinated or already sick.
+
+9 didn't infect 43 because is already vaccinated or already sick.
+
+9 didn't infect 67 because is already vaccinated or already sick.
+
+9 didn't infect 68 because is already vaccinated or already sick.
+
+9 didn't infect 63 because is already vaccinated or already sick.
+
+9 didn't infect 50 because is already vaccinated or already sick.
+
+9 didn't infect 30 because is already vaccinated or already sick.
+
+9 didn't infect 13 because is already vaccinated or already sick.
+
+9 didn't infect 39 because is already vaccinated or already sick.
+
+9 didn't infect 68 because is already vaccinated or already sick.
+
+9 didn't infect 21 because is already vaccinated or already sick.
+
+9 didn't infect 15 because is already vaccinated or already sick.
+
+9 didn't infect 58 because is already vaccinated or already sick.
+
+9 didn't infect 69 because is already vaccinated or already sick.
+
+9 didn't infect 16 because is already vaccinated or already sick.
+
+9 didn't infect 80 because is already vaccinated or already sick.
+
+9 didn't infect 87 because is already vaccinated or already sick.
+
+9 didn't infect 94 because is already vaccinated or already sick.
+
+9 didn't infect 13 because is already vaccinated or already sick.
+
+9 didn't infect 26 because is already vaccinated or already sick.
+
+9 didn't infect 26 because is already vaccinated or already sick.
+
+9 didn't infect 79 because is already vaccinated or already sick.
+
+9 didn't infect 45 because is already vaccinated or already sick.
+
+9 didn't infect 17 because is already vaccinated or already sick.
+
+9 didn't infect 38 because is already vaccinated or already sick.
+
+9 didn't infect 22 because is already vaccinated or already sick.
+
+9 didn't infect 78 because is already vaccinated or already sick.
+
+9 didn't infect 60 because is already vaccinated or already sick.
+
+9 didn't infect 84 because is already vaccinated or already sick.
+
+9 didn't infect 83 because is already vaccinated or already sick.
+
+9 didn't infect 86 because is already vaccinated or already sick.
+
+9 didn't infect 35 because is already vaccinated or already sick.
+
+9 didn't infect 73 because is already vaccinated or already sick.
+
+9 didn't infect 55 because is already vaccinated or already sick.
+
+9 didn't infect 64 because is already vaccinated or already sick.
+
+9 didn't infect 63 because is already vaccinated or already sick.
+
+9 didn't infect 45 because is already vaccinated or already sick.
+
+9 didn't infect 82 because is already vaccinated or already sick.
+
+9 didn't infect 61 because is already vaccinated or already sick.
+
+9 didn't infect 46 because is already vaccinated or already sick.
+
+9 didn't infect 79 because is already vaccinated or already sick.
+
+9 didn't infect 86 because is already vaccinated or already sick.
+
+9 didn't infect 14 because is already vaccinated or already sick.
+
+9 didn't infect 85 because is already vaccinated or already sick.
+
+9 didn't infect 19 because is already vaccinated or already sick.
+
+9 didn't infect 33 because is already vaccinated or already sick.
+
+9 didn't infect 87 because is already vaccinated or already sick.
+
+9 didn't infect 34 because is already vaccinated or already sick.
+
+9 didn't infect 17 because is already vaccinated or already sick.
+
+9 didn't infect 27 because is already vaccinated or already sick.
+
+9 didn't infect 37 because is already vaccinated or already sick.
+
+9 didn't infect 29 because is already vaccinated or already sick.
+
+9 didn't infect 77 because is already vaccinated or already sick.
+
+9 didn't infect 16 because is already vaccinated or already sick.
+
+9 didn't infect 27 because is already vaccinated or already sick.
+
+9 didn't infect 3 because is already vaccinated or already sick.
+
+9 didn't infect 59 because is already vaccinated or already sick.
+
+9 didn't infect 64 because is already vaccinated or already sick.
+
+9 didn't infect 95 because is already vaccinated or already sick.
+
+9 didn't infect 83 because is already vaccinated or already sick.
+
+9 didn't infect 67 because is already vaccinated or already sick.
+
+9 didn't infect 44 because is already vaccinated or already sick.
+
+9 didn't infect 11 because is already vaccinated or already sick.
+
+9 didn't infect 36 because is already vaccinated or already sick.
+9 died from infection
+
+43 didn't infect 66 because is already vaccinated or already sick.
+
+43 didn't infect 17 because is already vaccinated or already sick.
+
+43 didn't infect 95 because is already vaccinated or already sick.
+
+43 didn't infect 37 because is already vaccinated or already sick.
+
+43 didn't infect 41 because is already vaccinated or already sick.
+
+43 didn't infect 88 because is already vaccinated or already sick.
+
+43 didn't infect 83 because is already vaccinated or already sick.
+
+43 didn't infect 92 because is already vaccinated or already sick.
+
+43 didn't infect 33 because is already vaccinated or already sick.
+
+43 didn't infect 62 because is already vaccinated or already sick.
+
+43 didn't infect 22 because is already vaccinated or already sick.
+
+43 didn't infect 77 because is already vaccinated or already sick.
+
+43 didn't infect 36 because is already vaccinated or already sick.
+
+43 didn't infect 90 because is already vaccinated or already sick.
+
+43 didn't infect 27 because is already vaccinated or already sick.
+
+43 didn't infect 42 because is already vaccinated or already sick.
+
+43 didn't infect 26 because is already vaccinated or already sick.
+
+43 didn't infect 17 because is already vaccinated or already sick.
+
+43 didn't infect 15 because is already vaccinated or already sick.
+
+43 didn't infect 29 because is already vaccinated or already sick.
+
+43 didn't infect 47 because is already vaccinated or already sick.
+
+43 didn't infect 84 because is already vaccinated or already sick.
+
+43 didn't infect 80 because is already vaccinated or already sick.
+
+43 didn't infect 44 because is already vaccinated or already sick.
+
+43 didn't infect 64 because is already vaccinated or already sick.
+
+43 didn't infect 23 because is already vaccinated or already sick.
+
+43 didn't infect 67 because is already vaccinated or already sick.
+
+43 didn't infect 96 because is already vaccinated or already sick.
+
+43 didn't infect 59 because is already vaccinated or already sick.
+
+43 didn't infect 42 because is already vaccinated or already sick.
+
+43 didn't infect 72 because is already vaccinated or already sick.
+
+43 didn't infect 77 because is already vaccinated or already sick.
+
+43 didn't infect 71 because is already vaccinated or already sick.
+
+43 didn't infect 64 because is already vaccinated or already sick.
+
+43 didn't infect 18 because is already vaccinated or already sick.
+
+43 didn't infect 84 because is already vaccinated or already sick.
+
+43 didn't infect 13 because is already vaccinated or already sick.
+
+43 didn't infect 63 because is already vaccinated or already sick.
+
+43 didn't infect 49 because is already vaccinated or already sick.
+
+43 didn't infect 85 because is already vaccinated or already sick.
+
+43 didn't infect 40 because is already vaccinated or already sick.
+
+43 didn't infect 11 because is already vaccinated or already sick.
+
+43 didn't infect 19 because is already vaccinated or already sick.
+
+43 didn't infect 37 because is already vaccinated or already sick.
+
+43 didn't infect 94 because is already vaccinated or already sick.
+
+43 didn't infect 81 because is already vaccinated or already sick.
+
+43 didn't infect 10 because is already vaccinated or already sick.
+
+43 didn't infect 94 because is already vaccinated or already sick.
+
+43 didn't infect 42 because is already vaccinated or already sick.
+
+43 infects 81
+
+43 didn't infect 30 because is already vaccinated or already sick.
+
+43 didn't infect 68 because is already vaccinated or already sick.
+
+43 didn't infect 74 because is already vaccinated or already sick.
+
+43 didn't infect 91 because is already vaccinated or already sick.
+
+43 didn't infect 64 because is already vaccinated or already sick.
+
+43 didn't infect 31 because is already vaccinated or already sick.
+
+43 didn't infect 82 because is already vaccinated or already sick.
+
+43 didn't infect 63 because is already vaccinated or already sick.
+
+43 didn't infect 89 because is already vaccinated or already sick.
+
+43 didn't infect 70 because is already vaccinated or already sick.
+
+43 didn't infect 19 because is already vaccinated or already sick.
+
+43 didn't infect 68 because is already vaccinated or already sick.
+
+43 didn't infect 52 because is already vaccinated or already sick.
+
+43 didn't infect 60 because is already vaccinated or already sick.
+
+43 didn't infect 50 because is already vaccinated or already sick.
+
+43 didn't infect 49 because is already vaccinated or already sick.
+
+43 didn't infect 93 because is already vaccinated or already sick.
+
+43 didn't infect 21 because is already vaccinated or already sick.
+
+43 didn't infect 28 because is already vaccinated or already sick.
+
+43 didn't infect 50 because is already vaccinated or already sick.
+
+43 didn't infect 60 because is already vaccinated or already sick.
+
+43 didn't infect 96 because is already vaccinated or already sick.
+
+43 didn't infect 92 because is already vaccinated or already sick.
+
+43 didn't infect 59 because is already vaccinated or already sick.
+
+43 didn't infect 78 because is already vaccinated or already sick.
+
+43 didn't infect 12 because is already vaccinated or already sick.
+
+43 didn't infect 66 because is already vaccinated or already sick.
+
+43 didn't infect 19 because is already vaccinated or already sick.
+
+43 didn't infect 48 because is already vaccinated or already sick.
+
+43 didn't infect 40 because is already vaccinated or already sick.
+
+43 didn't infect 49 because is already vaccinated or already sick.
+
+43 didn't infect 22 because is already vaccinated or already sick.
+
+43 didn't infect 59 because is already vaccinated or already sick.
+
+43 didn't infect 73 because is already vaccinated or already sick.
+
+43 didn't infect 3 because is already vaccinated or already sick.
+
+43 didn't infect 92 because is already vaccinated or already sick.
+
+43 didn't infect 77 because is already vaccinated or already sick.
+
+43 didn't infect 67 because is already vaccinated or already sick.
+
+43 didn't infect 60 because is already vaccinated or already sick.
+
+43 didn't infect 14 because is already vaccinated or already sick.
+
+43 didn't infect 32 because is already vaccinated or already sick.
+
+43 didn't infect 74 because is already vaccinated or already sick.
+
+43 didn't infect 54 because is already vaccinated or already sick.
+
+43 didn't infect 87 because is already vaccinated or already sick.
+
+43 didn't infect 71 because is already vaccinated or already sick.
+
+43 didn't infect 88 because is already vaccinated or already sick.
+
+43 didn't infect 64 because is already vaccinated or already sick.
+
+43 didn't infect 14 because is already vaccinated or already sick.
+
+43 didn't infect 34 because is already vaccinated or already sick.
+
+43 didn't infect 24 because is already vaccinated or already sick.
+43 died from infection
+
+63 didn't infect 45 because is already vaccinated or already sick.
+
+63 didn't infect 65 because is already vaccinated or already sick.
+
+63 didn't infect 98 because is already vaccinated or already sick.
+
+63 didn't infect 71 because is already vaccinated or already sick.
+
+63 didn't infect 23 because is already vaccinated or already sick.
+
+63 didn't infect 11 because is already vaccinated or already sick.
+
+63 didn't infect 89 because is already vaccinated or already sick.
+
+63 didn't infect 86 because is already vaccinated or already sick.
+
+63 didn't infect 38 because is already vaccinated or already sick.
+
+63 didn't infect 99 because is already vaccinated or already sick.
+
+63 didn't infect 28 because is already vaccinated or already sick.
+
+63 didn't infect 48 because is already vaccinated or already sick.
+
+63 didn't infect 79 because is already vaccinated or already sick.
+
+63 didn't infect 7 because is already vaccinated or already sick.
+
+63 didn't infect 79 because is already vaccinated or already sick.
+
+63 didn't infect 61 because is already vaccinated or already sick.
+
+63 didn't infect 19 because is already vaccinated or already sick.
+
+63 didn't infect 36 because is already vaccinated or already sick.
+
+63 didn't infect 22 because is already vaccinated or already sick.
+
+63 didn't infect 68 because is already vaccinated or already sick.
+
+63 didn't infect 23 because is already vaccinated or already sick.
+
+63 didn't infect 91 because is already vaccinated or already sick.
+
+63 didn't infect 27 because is already vaccinated or already sick.
+
+63 didn't infect 72 because is already vaccinated or already sick.
+
+63 didn't infect 46 because is already vaccinated or already sick.
+
+63 didn't infect 74 because is already vaccinated or already sick.
+
+63 didn't infect 99 because is already vaccinated or already sick.
+
+63 didn't infect 42 because is already vaccinated or already sick.
+
+63 didn't infect 62 because is already vaccinated or already sick.
+
+63 didn't infect 70 because is already vaccinated or already sick.
+
+63 didn't infect 69 because is already vaccinated or already sick.
+
+63 didn't infect 39 because is already vaccinated or already sick.
+
+63 didn't infect 67 because is already vaccinated or already sick.
+
+63 didn't infect 79 because is already vaccinated or already sick.
+
+63 didn't infect 26 because is already vaccinated or already sick.
+
+63 didn't infect 58 because is already vaccinated or already sick.
+
+63 didn't infect 32 because is already vaccinated or already sick.
+
+63 didn't infect 85 because is already vaccinated or already sick.
+
+63 didn't infect 74 because is already vaccinated or already sick.
+
+63 didn't infect 25 because is already vaccinated or already sick.
+
+63 didn't infect 16 because is already vaccinated or already sick.
+
+63 didn't infect 44 because is already vaccinated or already sick.
+
+63 didn't infect 62 because is already vaccinated or already sick.
+
+63 didn't infect 52 because is already vaccinated or already sick.
+
+63 didn't infect 73 because is already vaccinated or already sick.
+
+63 didn't infect 42 because is already vaccinated or already sick.
+
+63 didn't infect 3 because is already vaccinated or already sick.
+
+63 didn't infect 45 because is already vaccinated or already sick.
+
+63 didn't infect 47 because is already vaccinated or already sick.
+
+63 didn't infect 84 because is already vaccinated or already sick.
+
+63 didn't infect 83 because is already vaccinated or already sick.
+
+63 didn't infect 93 because is already vaccinated or already sick.
+
+63 didn't infect 71 because is already vaccinated or already sick.
+
+63 didn't infect 27 because is already vaccinated or already sick.
+
+63 didn't infect 66 because is already vaccinated or already sick.
+
+63 didn't infect 77 because is already vaccinated or already sick.
+
+63 didn't infect 70 because is already vaccinated or already sick.
+
+63 didn't infect 53 because is already vaccinated or already sick.
+
+63 didn't infect 51 because is already vaccinated or already sick.
+
+63 didn't infect 79 because is already vaccinated or already sick.
+
+63 didn't infect 78 because is already vaccinated or already sick.
+
+63 didn't infect 57 because is already vaccinated or already sick.
+
+63 didn't infect 67 because is already vaccinated or already sick.
+
+63 didn't infect 50 because is already vaccinated or already sick.
+
+63 didn't infect 32 because is already vaccinated or already sick.
+
+63 didn't infect 98 because is already vaccinated or already sick.
+
+63 didn't infect 38 because is already vaccinated or already sick.
+
+63 didn't infect 82 because is already vaccinated or already sick.
+
+63 didn't infect 58 because is already vaccinated or already sick.
+
+63 didn't infect 37 because is already vaccinated or already sick.
+
+63 didn't infect 61 because is already vaccinated or already sick.
+
+63 didn't infect 13 because is already vaccinated or already sick.
+
+63 didn't infect 49 because is already vaccinated or already sick.
+
+63 didn't infect 69 because is already vaccinated or already sick.
+
+63 didn't infect 99 because is already vaccinated or already sick.
+
+63 didn't infect 57 because is already vaccinated or already sick.
+
+63 didn't infect 58 because is already vaccinated or already sick.
+
+63 didn't infect 93 because is already vaccinated or already sick.
+
+63 didn't infect 92 because is already vaccinated or already sick.
+
+63 didn't infect 27 because is already vaccinated or already sick.
+
+63 didn't infect 72 because is already vaccinated or already sick.
+
+63 didn't infect 12 because is already vaccinated or already sick.
+
+63 didn't infect 24 because is already vaccinated or already sick.
+
+63 didn't infect 73 because is already vaccinated or already sick.
+
+63 didn't infect 84 because is already vaccinated or already sick.
+
+63 didn't infect 51 because is already vaccinated or already sick.
+
+63 didn't infect 20 because is already vaccinated or already sick.
+
+63 didn't infect 65 because is already vaccinated or already sick.
+
+63 didn't infect 20 because is already vaccinated or already sick.
+
+63 didn't infect 76 because is already vaccinated or already sick.
+
+63 didn't infect 67 because is already vaccinated or already sick.
+
+63 didn't infect 7 because is already vaccinated or already sick.
+
+63 didn't infect 26 because is already vaccinated or already sick.
+
+63 didn't infect 61 because is already vaccinated or already sick.
+
+63 didn't infect 92 because is already vaccinated or already sick.
+
+63 didn't infect 27 because is already vaccinated or already sick.
+
+63 didn't infect 17 because is already vaccinated or already sick.
+
+63 didn't infect 69 because is already vaccinated or already sick.
+
+63 didn't infect 41 because is already vaccinated or already sick.
+
+63 didn't infect 52 because is already vaccinated or already sick.
+63 died from infection
+
+70 didn't infect 89 because is already vaccinated or already sick.
+
+70 didn't infect 98 because is already vaccinated or already sick.
+
+70 didn't infect 59 because is already vaccinated or already sick.
+
+70 didn't infect 93 because is already vaccinated or already sick.
+
+70 didn't infect 18 because is already vaccinated or already sick.
+
+70 didn't infect 51 because is already vaccinated or already sick.
+
+70 didn't infect 96 because is already vaccinated or already sick.
+
+70 didn't infect 57 because is already vaccinated or already sick.
+
+70 didn't infect 49 because is already vaccinated or already sick.
+
+70 didn't infect 90 because is already vaccinated or already sick.
+
+70 didn't infect 72 because is already vaccinated or already sick.
+
+70 didn't infect 79 because is already vaccinated or already sick.
+
+70 didn't infect 12 because is already vaccinated or already sick.
+
+70 didn't infect 89 because is already vaccinated or already sick.
+
+70 didn't infect 16 because is already vaccinated or already sick.
+
+70 didn't infect 38 because is already vaccinated or already sick.
+
+70 didn't infect 90 because is already vaccinated or already sick.
+
+70 didn't infect 97 because is already vaccinated or already sick.
+
+70 didn't infect 45 because is already vaccinated or already sick.
+
+70 didn't infect 37 because is already vaccinated or already sick.
+
+70 didn't infect 19 because is already vaccinated or already sick.
+
+70 didn't infect 65 because is already vaccinated or already sick.
+
+70 didn't infect 20 because is already vaccinated or already sick.
+
+70 didn't infect 91 because is already vaccinated or already sick.
+
+70 didn't infect 20 because is already vaccinated or already sick.
+
+70 didn't infect 66 because is already vaccinated or already sick.
+
+70 didn't infect 29 because is already vaccinated or already sick.
+
+70 didn't infect 98 because is already vaccinated or already sick.
+
+70 didn't infect 47 because is already vaccinated or already sick.
+
+70 didn't infect 11 because is already vaccinated or already sick.
+
+70 didn't infect 13 because is already vaccinated or already sick.
+
+70 didn't infect 50 because is already vaccinated or already sick.
+
+70 didn't infect 15 because is already vaccinated or already sick.
+
+70 didn't infect 46 because is already vaccinated or already sick.
+
+70 didn't infect 54 because is already vaccinated or already sick.
+
+70 didn't infect 56 because is already vaccinated or already sick.
+
+70 didn't infect 65 because is already vaccinated or already sick.
+
+70 didn't infect 26 because is already vaccinated or already sick.
+
+70 didn't infect 39 because is already vaccinated or already sick.
+
+70 didn't infect 77 because is already vaccinated or already sick.
+
+70 didn't infect 61 because is already vaccinated or already sick.
+
+70 didn't infect 82 because is already vaccinated or already sick.
+
+70 didn't infect 97 because is already vaccinated or already sick.
+
+70 didn't infect 31 because is already vaccinated or already sick.
+
+70 didn't infect 29 because is already vaccinated or already sick.
+
+70 didn't infect 30 because is already vaccinated or already sick.
+
+70 didn't infect 18 because is already vaccinated or already sick.
+
+70 didn't infect 88 because is already vaccinated or already sick.
+
+70 didn't infect 57 because is already vaccinated or already sick.
+
+70 didn't infect 89 because is already vaccinated or already sick.
+
+70 didn't infect 97 because is already vaccinated or already sick.
+
+70 didn't infect 38 because is already vaccinated or already sick.
+
+70 didn't infect 73 because is already vaccinated or already sick.
+
+70 didn't infect 84 because is already vaccinated or already sick.
+
+70 didn't infect 26 because is already vaccinated or already sick.
+
+70 didn't infect 37 because is already vaccinated or already sick.
+
+70 didn't infect 69 because is already vaccinated or already sick.
+
+70 didn't infect 91 because is already vaccinated or already sick.
+
+70 didn't infect 40 because is already vaccinated or already sick.
+
+70 didn't infect 68 because is already vaccinated or already sick.
+
+70 didn't infect 40 because is already vaccinated or already sick.
+
+70 didn't infect 95 because is already vaccinated or already sick.
+
+70 didn't infect 7 because is already vaccinated or already sick.
+
+70 didn't infect 69 because is already vaccinated or already sick.
+
+70 didn't infect 45 because is already vaccinated or already sick.
+
+70 didn't infect 96 because is already vaccinated or already sick.
+
+70 didn't infect 17 because is already vaccinated or already sick.
+
+70 didn't infect 66 because is already vaccinated or already sick.
+
+70 didn't infect 53 because is already vaccinated or already sick.
+
+70 didn't infect 85 because is already vaccinated or already sick.
+
+70 didn't infect 47 because is already vaccinated or already sick.
+
+70 didn't infect 91 because is already vaccinated or already sick.
+
+70 didn't infect 64 because is already vaccinated or already sick.
+
+70 didn't infect 98 because is already vaccinated or already sick.
+
+70 didn't infect 40 because is already vaccinated or already sick.
+
+70 didn't infect 68 because is already vaccinated or already sick.
+
+70 didn't infect 47 because is already vaccinated or already sick.
+
+70 didn't infect 33 because is already vaccinated or already sick.
+
+70 didn't infect 58 because is already vaccinated or already sick.
+
+70 didn't infect 71 because is already vaccinated or already sick.
+
+70 didn't infect 21 because is already vaccinated or already sick.
+
+70 didn't infect 38 because is already vaccinated or already sick.
+
+70 didn't infect 57 because is already vaccinated or already sick.
+
+70 didn't infect 83 because is already vaccinated or already sick.
+
+70 didn't infect 54 because is already vaccinated or already sick.
+
+70 didn't infect 83 because is already vaccinated or already sick.
+
+70 didn't infect 46 because is already vaccinated or already sick.
+
+70 didn't infect 99 because is already vaccinated or already sick.
+
+70 didn't infect 46 because is already vaccinated or already sick.
+
+70 didn't infect 10 because is already vaccinated or already sick.
+
+70 didn't infect 94 because is already vaccinated or already sick.
+
+70 didn't infect 59 because is already vaccinated or already sick.
+
+70 didn't infect 44 because is already vaccinated or already sick.
+
+70 didn't infect 7 because is already vaccinated or already sick.
+
+70 didn't infect 82 because is already vaccinated or already sick.
+
+70 didn't infect 97 because is already vaccinated or already sick.
+
+70 didn't infect 14 because is already vaccinated or already sick.
+
+70 didn't infect 87 because is already vaccinated or already sick.
+
+70 didn't infect 73 because is already vaccinated or already sick.
+
+70 didn't infect 45 because is already vaccinated or already sick.
+70 died from infection
+
+86 didn't infect 37 because is already vaccinated or already sick.
+
+86 didn't infect 88 because is already vaccinated or already sick.
+
+86 didn't infect 54 because is already vaccinated or already sick.
+
+86 didn't infect 36 because is already vaccinated or already sick.
+
+86 didn't infect 92 because is already vaccinated or already sick.
+
+86 didn't infect 32 because is already vaccinated or already sick.
+
+86 didn't infect 90 because is already vaccinated or already sick.
+
+86 didn't infect 40 because is already vaccinated or already sick.
+
+86 didn't infect 97 because is already vaccinated or already sick.
+
+86 didn't infect 95 because is already vaccinated or already sick.
+
+86 didn't infect 98 because is already vaccinated or already sick.
+
+86 didn't infect 25 because is already vaccinated or already sick.
+
+86 didn't infect 91 because is already vaccinated or already sick.
+
+86 didn't infect 20 because is already vaccinated or already sick.
+
+86 didn't infect 91 because is already vaccinated or already sick.
+
+86 didn't infect 93 because is already vaccinated or already sick.
+
+86 didn't infect 13 because is already vaccinated or already sick.
+
+86 didn't infect 48 because is already vaccinated or already sick.
+
+86 didn't infect 66 because is already vaccinated or already sick.
+
+86 didn't infect 12 because is already vaccinated or already sick.
+
+86 didn't infect 85 because is already vaccinated or already sick.
+
+86 didn't infect 55 because is already vaccinated or already sick.
+
+86 didn't infect 24 because is already vaccinated or already sick.
+
+86 didn't infect 19 because is already vaccinated or already sick.
+
+86 didn't infect 46 because is already vaccinated or already sick.
+
+86 didn't infect 50 because is already vaccinated or already sick.
+
+86 didn't infect 62 because is already vaccinated or already sick.
+
+86 didn't infect 30 because is already vaccinated or already sick.
+
+86 didn't infect 33 because is already vaccinated or already sick.
+
+86 didn't infect 24 because is already vaccinated or already sick.
+
+86 didn't infect 80 because is already vaccinated or already sick.
+
+86 didn't infect 55 because is already vaccinated or already sick.
+
+86 didn't infect 78 because is already vaccinated or already sick.
+
+86 didn't infect 75 because is already vaccinated or already sick.
+
+86 didn't infect 42 because is already vaccinated or already sick.
+
+86 didn't infect 29 because is already vaccinated or already sick.
+
+86 didn't infect 40 because is already vaccinated or already sick.
+
+86 didn't infect 72 because is already vaccinated or already sick.
+
+86 didn't infect 46 because is already vaccinated or already sick.
+
+86 didn't infect 52 because is already vaccinated or already sick.
+
+86 didn't infect 22 because is already vaccinated or already sick.
+
+86 didn't infect 69 because is already vaccinated or already sick.
+
+86 didn't infect 17 because is already vaccinated or already sick.
+
+86 didn't infect 26 because is already vaccinated or already sick.
+
+86 didn't infect 36 because is already vaccinated or already sick.
+
+86 didn't infect 97 because is already vaccinated or already sick.
+
+86 didn't infect 97 because is already vaccinated or already sick.
+
+86 didn't infect 59 because is already vaccinated or already sick.
+
+86 didn't infect 82 because is already vaccinated or already sick.
+
+86 didn't infect 55 because is already vaccinated or already sick.
+
+86 didn't infect 19 because is already vaccinated or already sick.
+
+86 didn't infect 59 because is already vaccinated or already sick.
+
+86 didn't infect 7 because is already vaccinated or already sick.
+
+86 didn't infect 41 because is already vaccinated or already sick.
+
+86 didn't infect 79 because is already vaccinated or already sick.
+
+86 didn't infect 23 because is already vaccinated or already sick.
+
+86 didn't infect 68 because is already vaccinated or already sick.
+
+86 didn't infect 56 because is already vaccinated or already sick.
+
+86 didn't infect 97 because is already vaccinated or already sick.
+
+86 didn't infect 97 because is already vaccinated or already sick.
+
+86 didn't infect 41 because is already vaccinated or already sick.
+
+86 didn't infect 85 because is already vaccinated or already sick.
+
+86 didn't infect 57 because is already vaccinated or already sick.
+
+86 didn't infect 92 because is already vaccinated or already sick.
+
+86 didn't infect 56 because is already vaccinated or already sick.
+
+86 didn't infect 21 because is already vaccinated or already sick.
+
+86 didn't infect 97 because is already vaccinated or already sick.
+
+86 didn't infect 37 because is already vaccinated or already sick.
+
+86 didn't infect 71 because is already vaccinated or already sick.
+
+86 didn't infect 11 because is already vaccinated or already sick.
+
+86 didn't infect 90 because is already vaccinated or already sick.
+
+86 didn't infect 82 because is already vaccinated or already sick.
+
+86 didn't infect 50 because is already vaccinated or already sick.
+
+86 didn't infect 89 because is already vaccinated or already sick.
+
+86 didn't infect 36 because is already vaccinated or already sick.
+
+86 didn't infect 93 because is already vaccinated or already sick.
+
+86 didn't infect 16 because is already vaccinated or already sick.
+
+86 didn't infect 92 because is already vaccinated or already sick.
+
+86 didn't infect 69 because is already vaccinated or already sick.
+
+86 didn't infect 47 because is already vaccinated or already sick.
+
+86 didn't infect 94 because is already vaccinated or already sick.
+
+86 didn't infect 61 because is already vaccinated or already sick.
+
+86 didn't infect 22 because is already vaccinated or already sick.
+
+86 didn't infect 25 because is already vaccinated or already sick.
+
+86 didn't infect 13 because is already vaccinated or already sick.
+
+86 didn't infect 12 because is already vaccinated or already sick.
+
+86 didn't infect 47 because is already vaccinated or already sick.
+
+86 didn't infect 74 because is already vaccinated or already sick.
+
+86 didn't infect 22 because is already vaccinated or already sick.
+
+86 didn't infect 20 because is already vaccinated or already sick.
+
+86 didn't infect 38 because is already vaccinated or already sick.
+
+86 didn't infect 79 because is already vaccinated or already sick.
+
+86 didn't infect 25 because is already vaccinated or already sick.
+
+86 didn't infect 58 because is already vaccinated or already sick.
+
+86 didn't infect 68 because is already vaccinated or already sick.
+
+86 didn't infect 56 because is already vaccinated or already sick.
+
+86 didn't infect 96 because is already vaccinated or already sick.
+
+86 didn't infect 80 because is already vaccinated or already sick.
+
+86 didn't infect 62 because is already vaccinated or already sick.
+
+86 didn't infect 27 because is already vaccinated or already sick.
+86 died from infection
+Time step 2 ended, beginning time step 3
+
+
+3 didn't infect 62 because is already vaccinated or already sick.
+
+3 didn't infect 95 because is already vaccinated or already sick.
+
+3 didn't infect 20 because is already vaccinated or already sick.
+
+3 didn't infect 73 because is already vaccinated or already sick.
+
+3 didn't infect 90 because is already vaccinated or already sick.
+
+3 didn't infect 61 because is already vaccinated or already sick.
+
+3 didn't infect 44 because is already vaccinated or already sick.
+
+3 didn't infect 12 because is already vaccinated or already sick.
+
+3 didn't infect 56 because is already vaccinated or already sick.
+
+3 didn't infect 35 because is already vaccinated or already sick.
+
+3 didn't infect 66 because is already vaccinated or already sick.
+
+3 didn't infect 66 because is already vaccinated or already sick.
+
+3 didn't infect 38 because is already vaccinated or already sick.
+
+3 didn't infect 55 because is already vaccinated or already sick.
+
+3 didn't infect 20 because is already vaccinated or already sick.
+
+3 didn't infect 99 because is already vaccinated or already sick.
+
+3 didn't infect 56 because is already vaccinated or already sick.
+
+3 didn't infect 80 because is already vaccinated or already sick.
+
+3 didn't infect 94 because is already vaccinated or already sick.
+
+3 didn't infect 54 because is already vaccinated or already sick.
+
+3 didn't infect 15 because is already vaccinated or already sick.
+
+3 didn't infect 59 because is already vaccinated or already sick.
+
+3 didn't infect 44 because is already vaccinated or already sick.
+
+3 didn't infect 32 because is already vaccinated or already sick.
+
+3 didn't infect 23 because is already vaccinated or already sick.
+
+3 didn't infect 68 because is already vaccinated or already sick.
+
+3 didn't infect 19 because is already vaccinated or already sick.
+
+3 didn't infect 96 because is already vaccinated or already sick.
+
+3 didn't infect 35 because is already vaccinated or already sick.
+
+3 didn't infect 94 because is already vaccinated or already sick.
+
+3 didn't infect 93 because is already vaccinated or already sick.
+
+3 didn't infect 88 because is already vaccinated or already sick.
+
+3 didn't infect 10 because is already vaccinated or already sick.
+
+3 didn't infect 14 because is already vaccinated or already sick.
+
+3 didn't infect 51 because is already vaccinated or already sick.
+
+3 didn't infect 39 because is already vaccinated or already sick.
+
+3 didn't infect 24 because is already vaccinated or already sick.
+
+3 didn't infect 83 because is already vaccinated or already sick.
+
+3 infects 34
+
+3 didn't infect 81 because is already vaccinated or already sick.
+
+3 didn't infect 34 because is already vaccinated or already sick.
+
+3 didn't infect 37 because is already vaccinated or already sick.
+
+3 didn't infect 51 because is already vaccinated or already sick.
+
+3 didn't infect 26 because is already vaccinated or already sick.
+
+3 didn't infect 88 because is already vaccinated or already sick.
+
+3 didn't infect 44 because is already vaccinated or already sick.
+
+3 didn't infect 26 because is already vaccinated or already sick.
+
+3 didn't infect 24 because is already vaccinated or already sick.
+
+3 didn't infect 80 because is already vaccinated or already sick.
+
+3 didn't infect 40 because is already vaccinated or already sick.
+
+3 didn't infect 30 because is already vaccinated or already sick.
+
+3 didn't infect 22 because is already vaccinated or already sick.
+
+3 didn't infect 96 because is already vaccinated or already sick.
+
+3 didn't infect 11 because is already vaccinated or already sick.
+
+3 didn't infect 24 because is already vaccinated or already sick.
+
+3 didn't infect 7 because is already vaccinated or already sick.
+
+3 didn't infect 54 because is already vaccinated or already sick.
+
+3 didn't infect 38 because is already vaccinated or already sick.
+
+3 didn't infect 87 because is already vaccinated or already sick.
+
+3 didn't infect 50 because is already vaccinated or already sick.
+
+3 didn't infect 10 because is already vaccinated or already sick.
+
+3 didn't infect 30 because is already vaccinated or already sick.
+
+3 didn't infect 41 because is already vaccinated or already sick.
+
+3 didn't infect 14 because is already vaccinated or already sick.
+
+3 didn't infect 24 because is already vaccinated or already sick.
+
+3 didn't infect 62 because is already vaccinated or already sick.
+
+3 didn't infect 78 because is already vaccinated or already sick.
+
+3 didn't infect 22 because is already vaccinated or already sick.
+
+3 didn't infect 16 because is already vaccinated or already sick.
+
+3 didn't infect 71 because is already vaccinated or already sick.
+
+3 didn't infect 67 because is already vaccinated or already sick.
+
+3 didn't infect 55 because is already vaccinated or already sick.
+
+3 didn't infect 76 because is already vaccinated or already sick.
+
+3 didn't infect 87 because is already vaccinated or already sick.
+
+3 didn't infect 21 because is already vaccinated or already sick.
+
+3 didn't infect 67 because is already vaccinated or already sick.
+
+3 didn't infect 75 because is already vaccinated or already sick.
+
+3 didn't infect 36 because is already vaccinated or already sick.
+
+3 didn't infect 90 because is already vaccinated or already sick.
+
+3 didn't infect 13 because is already vaccinated or already sick.
+
+3 didn't infect 96 because is already vaccinated or already sick.
+
+3 didn't infect 77 because is already vaccinated or already sick.
+
+3 didn't infect 47 because is already vaccinated or already sick.
+
+3 didn't infect 68 because is already vaccinated or already sick.
+
+3 didn't infect 94 because is already vaccinated or already sick.
+
+3 didn't infect 11 because is already vaccinated or already sick.
+
+3 didn't infect 15 because is already vaccinated or already sick.
+
+3 didn't infect 72 because is already vaccinated or already sick.
+
+3 didn't infect 60 because is already vaccinated or already sick.
+
+3 didn't infect 64 because is already vaccinated or already sick.
+
+3 didn't infect 99 because is already vaccinated or already sick.
+
+3 didn't infect 21 because is already vaccinated or already sick.
+
+3 didn't infect 73 because is already vaccinated or already sick.
+
+3 didn't infect 66 because is already vaccinated or already sick.
+
+3 didn't infect 17 because is already vaccinated or already sick.
+
+3 didn't infect 18 because is already vaccinated or already sick.
+
+3 didn't infect 50 because is already vaccinated or already sick.
+
+3 didn't infect 89 because is already vaccinated or already sick.
+
+3 didn't infect 26 because is already vaccinated or already sick.
+
+3 didn't infect 16 because is already vaccinated or already sick.
+3 died from infection
+
+81 didn't infect 87 because is already vaccinated or already sick.
+
+81 didn't infect 82 because is already vaccinated or already sick.
+
+81 didn't infect 51 because is already vaccinated or already sick.
+
+81 didn't infect 58 because is already vaccinated or already sick.
+
+81 didn't infect 89 because is already vaccinated or already sick.
+
+81 didn't infect 79 because is already vaccinated or already sick.
+
+81 didn't infect 47 because is already vaccinated or already sick.
+
+81 didn't infect 69 because is already vaccinated or already sick.
+
+81 didn't infect 76 because is already vaccinated or already sick.
+
+81 didn't infect 90 because is already vaccinated or already sick.
+
+81 didn't infect 66 because is already vaccinated or already sick.
+
+81 didn't infect 21 because is already vaccinated or already sick.
+
+81 didn't infect 23 because is already vaccinated or already sick.
+
+81 didn't infect 96 because is already vaccinated or already sick.
+
+81 didn't infect 96 because is already vaccinated or already sick.
+
+81 didn't infect 82 because is already vaccinated or already sick.
+
+81 didn't infect 36 because is already vaccinated or already sick.
+
+81 didn't infect 66 because is already vaccinated or already sick.
+
+81 didn't infect 68 because is already vaccinated or already sick.
+
+81 didn't infect 38 because is already vaccinated or already sick.
+
+81 didn't infect 62 because is already vaccinated or already sick.
+
+81 didn't infect 53 because is already vaccinated or already sick.
+
+81 didn't infect 69 because is already vaccinated or already sick.
+
+81 didn't infect 61 because is already vaccinated or already sick.
+
+81 didn't infect 64 because is already vaccinated or already sick.
+
+81 didn't infect 21 because is already vaccinated or already sick.
+
+81 didn't infect 50 because is already vaccinated or already sick.
+
+81 didn't infect 65 because is already vaccinated or already sick.
+
+81 didn't infect 50 because is already vaccinated or already sick.
+
+81 didn't infect 98 because is already vaccinated or already sick.
+
+81 didn't infect 41 because is already vaccinated or already sick.
+
+81 didn't infect 57 because is already vaccinated or already sick.
+
+81 didn't infect 28 because is already vaccinated or already sick.
+
+81 didn't infect 72 because is already vaccinated or already sick.
+
+81 didn't infect 17 because is already vaccinated or already sick.
+
+81 didn't infect 20 because is already vaccinated or already sick.
+
+81 didn't infect 19 because is already vaccinated or already sick.
+
+81 didn't infect 20 because is already vaccinated or already sick.
+
+81 didn't infect 66 because is already vaccinated or already sick.
+
+81 didn't infect 21 because is already vaccinated or already sick.
+
+81 didn't infect 57 because is already vaccinated or already sick.
+
+81 didn't infect 25 because is already vaccinated or already sick.
+
+81 didn't infect 83 because is already vaccinated or already sick.
+
+81 didn't infect 16 because is already vaccinated or already sick.
+
+81 didn't infect 88 because is already vaccinated or already sick.
+
+81 didn't infect 83 because is already vaccinated or already sick.
+
+81 didn't infect 83 because is already vaccinated or already sick.
+
+81 didn't infect 52 because is already vaccinated or already sick.
+
+81 didn't infect 98 because is already vaccinated or already sick.
+
+81 didn't infect 24 because is already vaccinated or already sick.
+
+81 didn't infect 62 because is already vaccinated or already sick.
+
+81 didn't infect 55 because is already vaccinated or already sick.
+
+81 didn't infect 98 because is already vaccinated or already sick.
+
+81 didn't infect 65 because is already vaccinated or already sick.
+
+81 didn't infect 15 because is already vaccinated or already sick.
+
+81 didn't infect 46 because is already vaccinated or already sick.
+
+81 didn't infect 89 because is already vaccinated or already sick.
+
+81 didn't infect 49 because is already vaccinated or already sick.
+
+81 didn't infect 55 because is already vaccinated or already sick.
+
+81 didn't infect 22 because is already vaccinated or already sick.
+
+81 didn't infect 85 because is already vaccinated or already sick.
+
+81 didn't infect 76 because is already vaccinated or already sick.
+
+81 didn't infect 36 because is already vaccinated or already sick.
+
+81 didn't infect 28 because is already vaccinated or already sick.
+
+81 didn't infect 97 because is already vaccinated or already sick.
+
+81 didn't infect 73 because is already vaccinated or already sick.
+
+81 didn't infect 37 because is already vaccinated or already sick.
+
+81 didn't infect 22 because is already vaccinated or already sick.
+
+81 didn't infect 54 because is already vaccinated or already sick.
+
+81 didn't infect 83 because is already vaccinated or already sick.
+
+81 didn't infect 57 because is already vaccinated or already sick.
+
+81 didn't infect 23 because is already vaccinated or already sick.
+
+81 didn't infect 45 because is already vaccinated or already sick.
+
+81 didn't infect 85 because is already vaccinated or already sick.
+
+81 didn't infect 37 because is already vaccinated or already sick.
+
+81 didn't infect 65 because is already vaccinated or already sick.
+
+81 didn't infect 83 because is already vaccinated or already sick.
+
+81 didn't infect 92 because is already vaccinated or already sick.
+
+81 didn't infect 91 because is already vaccinated or already sick.
+
+81 didn't infect 99 because is already vaccinated or already sick.
+
+81 didn't infect 95 because is already vaccinated or already sick.
+
+81 didn't infect 83 because is already vaccinated or already sick.
+
+81 didn't infect 12 because is already vaccinated or already sick.
+
+81 didn't infect 90 because is already vaccinated or already sick.
+
+81 didn't infect 97 because is already vaccinated or already sick.
+
+81 didn't infect 44 because is already vaccinated or already sick.
+
+81 didn't infect 12 because is already vaccinated or already sick.
+
+81 didn't infect 32 because is already vaccinated or already sick.
+
+81 didn't infect 44 because is already vaccinated or already sick.
+
+81 didn't infect 49 because is already vaccinated or already sick.
+
+81 didn't infect 53 because is already vaccinated or already sick.
+
+81 didn't infect 54 because is already vaccinated or already sick.
+
+81 didn't infect 7 because is already vaccinated or already sick.
+
+81 didn't infect 32 because is already vaccinated or already sick.
+
+81 didn't infect 27 because is already vaccinated or already sick.
+
+81 didn't infect 84 because is already vaccinated or already sick.
+
+81 didn't infect 97 because is already vaccinated or already sick.
+
+81 didn't infect 61 because is already vaccinated or already sick.
+
+81 didn't infect 17 because is already vaccinated or already sick.
+
+81 didn't infect 27 because is already vaccinated or already sick.
+81 died from infection
+
+96 didn't infect 95 because is already vaccinated or already sick.
+
+96 didn't infect 12 because is already vaccinated or already sick.
+
+96 didn't infect 20 because is already vaccinated or already sick.
+
+96 didn't infect 79 because is already vaccinated or already sick.
+
+96 didn't infect 36 because is already vaccinated or already sick.
+
+96 didn't infect 58 because is already vaccinated or already sick.
+
+96 didn't infect 64 because is already vaccinated or already sick.
+
+96 didn't infect 69 because is already vaccinated or already sick.
+
+96 didn't infect 53 because is already vaccinated or already sick.
+
+96 didn't infect 29 because is already vaccinated or already sick.
+
+96 didn't infect 57 because is already vaccinated or already sick.
+
+96 didn't infect 49 because is already vaccinated or already sick.
+
+96 didn't infect 51 because is already vaccinated or already sick.
+
+96 didn't infect 85 because is already vaccinated or already sick.
+
+96 didn't infect 90 because is already vaccinated or already sick.
+
+96 didn't infect 19 because is already vaccinated or already sick.
+
+96 didn't infect 15 because is already vaccinated or already sick.
+
+96 didn't infect 28 because is already vaccinated or already sick.
+
+96 didn't infect 29 because is already vaccinated or already sick.
+
+96 didn't infect 93 because is already vaccinated or already sick.
+
+96 didn't infect 15 because is already vaccinated or already sick.
+
+96 didn't infect 19 because is already vaccinated or already sick.
+
+96 didn't infect 44 because is already vaccinated or already sick.
+
+96 didn't infect 67 because is already vaccinated or already sick.
+
+96 didn't infect 98 because is already vaccinated or already sick.
+
+96 didn't infect 65 because is already vaccinated or already sick.
+
+96 didn't infect 74 because is already vaccinated or already sick.
+
+96 didn't infect 91 because is already vaccinated or already sick.
+
+96 didn't infect 67 because is already vaccinated or already sick.
+
+96 didn't infect 64 because is already vaccinated or already sick.
+
+96 didn't infect 44 because is already vaccinated or already sick.
+
+96 didn't infect 36 because is already vaccinated or already sick.
+
+96 didn't infect 77 because is already vaccinated or already sick.
+
+96 didn't infect 23 because is already vaccinated or already sick.
+
+96 didn't infect 54 because is already vaccinated or already sick.
+
+96 didn't infect 66 because is already vaccinated or already sick.
+
+96 didn't infect 23 because is already vaccinated or already sick.
+
+96 didn't infect 46 because is already vaccinated or already sick.
+
+96 didn't infect 89 because is already vaccinated or already sick.
+
+96 didn't infect 74 because is already vaccinated or already sick.
+
+96 didn't infect 79 because is already vaccinated or already sick.
+
+96 didn't infect 99 because is already vaccinated or already sick.
+
+96 didn't infect 49 because is already vaccinated or already sick.
+
+96 didn't infect 14 because is already vaccinated or already sick.
+
+96 didn't infect 37 because is already vaccinated or already sick.
+
+96 didn't infect 60 because is already vaccinated or already sick.
+
+96 didn't infect 90 because is already vaccinated or already sick.
+
+96 didn't infect 16 because is already vaccinated or already sick.
+
+96 didn't infect 7 because is already vaccinated or already sick.
+
+96 didn't infect 35 because is already vaccinated or already sick.
+
+96 didn't infect 48 because is already vaccinated or already sick.
+
+96 didn't infect 36 because is already vaccinated or already sick.
+
+96 didn't infect 26 because is already vaccinated or already sick.
+
+96 didn't infect 41 because is already vaccinated or already sick.
+
+96 didn't infect 47 because is already vaccinated or already sick.
+
+96 didn't infect 51 because is already vaccinated or already sick.
+
+96 didn't infect 24 because is already vaccinated or already sick.
+
+96 didn't infect 7 because is already vaccinated or already sick.
+
+96 didn't infect 75 because is already vaccinated or already sick.
+
+96 didn't infect 66 because is already vaccinated or already sick.
+
+96 didn't infect 31 because is already vaccinated or already sick.
+
+96 didn't infect 25 because is already vaccinated or already sick.
+
+96 didn't infect 58 because is already vaccinated or already sick.
+
+96 didn't infect 80 because is already vaccinated or already sick.
+
+96 didn't infect 38 because is already vaccinated or already sick.
+
+96 didn't infect 76 because is already vaccinated or already sick.
+
+96 didn't infect 84 because is already vaccinated or already sick.
+
+96 didn't infect 99 because is already vaccinated or already sick.
+
+96 didn't infect 55 because is already vaccinated or already sick.
+
+96 didn't infect 18 because is already vaccinated or already sick.
+
+96 didn't infect 60 because is already vaccinated or already sick.
+
+96 didn't infect 14 because is already vaccinated or already sick.
+
+96 didn't infect 66 because is already vaccinated or already sick.
+
+96 didn't infect 11 because is already vaccinated or already sick.
+
+96 didn't infect 69 because is already vaccinated or already sick.
+
+96 didn't infect 18 because is already vaccinated or already sick.
+
+96 didn't infect 50 because is already vaccinated or already sick.
+
+96 didn't infect 87 because is already vaccinated or already sick.
+
+96 didn't infect 65 because is already vaccinated or already sick.
+
+96 didn't infect 87 because is already vaccinated or already sick.
+
+96 didn't infect 61 because is already vaccinated or already sick.
+
+96 didn't infect 95 because is already vaccinated or already sick.
+
+96 didn't infect 64 because is already vaccinated or already sick.
+
+96 didn't infect 47 because is already vaccinated or already sick.
+
+96 didn't infect 23 because is already vaccinated or already sick.
+
+96 didn't infect 61 because is already vaccinated or already sick.
+
+96 didn't infect 11 because is already vaccinated or already sick.
+
+96 didn't infect 51 because is already vaccinated or already sick.
+
+96 didn't infect 30 because is already vaccinated or already sick.
+
+96 didn't infect 93 because is already vaccinated or already sick.
+
+96 didn't infect 69 because is already vaccinated or already sick.
+
+96 didn't infect 56 because is already vaccinated or already sick.
+
+96 didn't infect 20 because is already vaccinated or already sick.
+
+96 didn't infect 66 because is already vaccinated or already sick.
+
+96 didn't infect 22 because is already vaccinated or already sick.
+
+96 didn't infect 40 because is already vaccinated or already sick.
+
+96 didn't infect 66 because is already vaccinated or already sick.
+
+96 didn't infect 89 because is already vaccinated or already sick.
+
+96 didn't infect 61 because is already vaccinated or already sick.
+
+96 didn't infect 79 because is already vaccinated or already sick.
+96 died from infection
+Time step 3 ended, beginning time step 4
+
+
+7 didn't infect 19 because is already vaccinated or already sick.
+
+7 didn't infect 60 because is already vaccinated or already sick.
+
+7 didn't infect 49 because is already vaccinated or already sick.
+
+7 didn't infect 53 because is already vaccinated or already sick.
+
+7 didn't infect 37 because is already vaccinated or already sick.
+
+7 didn't infect 52 because is already vaccinated or already sick.
+
+7 didn't infect 30 because is already vaccinated or already sick.
+
+7 didn't infect 18 because is already vaccinated or already sick.
+
+7 didn't infect 77 because is already vaccinated or already sick.
+
+7 didn't infect 95 because is already vaccinated or already sick.
+
+7 didn't infect 23 because is already vaccinated or already sick.
+
+7 didn't infect 79 because is already vaccinated or already sick.
+
+7 didn't infect 77 because is already vaccinated or already sick.
+
+7 didn't infect 33 because is already vaccinated or already sick.
+
+7 didn't infect 54 because is already vaccinated or already sick.
+
+7 didn't infect 54 because is already vaccinated or already sick.
+
+7 didn't infect 97 because is already vaccinated or already sick.
+
+7 didn't infect 27 because is already vaccinated or already sick.
+
+7 didn't infect 39 because is already vaccinated or already sick.
+
+7 didn't infect 22 because is already vaccinated or already sick.
+
+7 didn't infect 27 because is already vaccinated or already sick.
+
+7 didn't infect 41 because is already vaccinated or already sick.
+
+7 didn't infect 34 because is already vaccinated or already sick.
+
+7 didn't infect 31 because is already vaccinated or already sick.
+
+7 didn't infect 91 because is already vaccinated or already sick.
+
+7 didn't infect 28 because is already vaccinated or already sick.
+
+7 didn't infect 98 because is already vaccinated or already sick.
+
+7 didn't infect 18 because is already vaccinated or already sick.
+
+7 didn't infect 31 because is already vaccinated or already sick.
+
+7 didn't infect 94 because is already vaccinated or already sick.
+
+7 didn't infect 75 because is already vaccinated or already sick.
+
+7 didn't infect 71 because is already vaccinated or already sick.
+
+7 didn't infect 85 because is already vaccinated or already sick.
+
+7 didn't infect 88 because is already vaccinated or already sick.
+
+7 didn't infect 68 because is already vaccinated or already sick.
+
+7 didn't infect 85 because is already vaccinated or already sick.
+
+7 didn't infect 97 because is already vaccinated or already sick.
+
+7 didn't infect 95 because is already vaccinated or already sick.
+
+7 didn't infect 93 because is already vaccinated or already sick.
+
+7 didn't infect 51 because is already vaccinated or already sick.
+
+7 didn't infect 94 because is already vaccinated or already sick.
+
+7 didn't infect 50 because is already vaccinated or already sick.
+
+7 didn't infect 28 because is already vaccinated or already sick.
+
+7 didn't infect 67 because is already vaccinated or already sick.
+
+7 didn't infect 17 because is already vaccinated or already sick.
+
+7 didn't infect 72 because is already vaccinated or already sick.
+
+7 didn't infect 67 because is already vaccinated or already sick.
+
+7 didn't infect 94 because is already vaccinated or already sick.
+
+7 didn't infect 48 because is already vaccinated or already sick.
+
+7 didn't infect 45 because is already vaccinated or already sick.
+
+7 didn't infect 89 because is already vaccinated or already sick.
+
+7 didn't infect 16 because is already vaccinated or already sick.
+
+7 didn't infect 55 because is already vaccinated or already sick.
+
+7 didn't infect 76 because is already vaccinated or already sick.
+
+7 didn't infect 18 because is already vaccinated or already sick.
+
+7 didn't infect 49 because is already vaccinated or already sick.
+
+7 didn't infect 71 because is already vaccinated or already sick.
+
+7 didn't infect 68 because is already vaccinated or already sick.
+
+7 didn't infect 13 because is already vaccinated or already sick.
+
+7 didn't infect 16 because is already vaccinated or already sick.
+
+7 didn't infect 57 because is already vaccinated or already sick.
+
+7 didn't infect 46 because is already vaccinated or already sick.
+
+7 didn't infect 18 because is already vaccinated or already sick.
+
+7 didn't infect 97 because is already vaccinated or already sick.
+
+7 didn't infect 20 because is already vaccinated or already sick.
+
+7 didn't infect 92 because is already vaccinated or already sick.
+
+7 didn't infect 90 because is already vaccinated or already sick.
+
+7 didn't infect 76 because is already vaccinated or already sick.
+
+7 didn't infect 59 because is already vaccinated or already sick.
+
+7 didn't infect 71 because is already vaccinated or already sick.
+
+7 didn't infect 88 because is already vaccinated or already sick.
+
+7 didn't infect 83 because is already vaccinated or already sick.
+
+7 didn't infect 14 because is already vaccinated or already sick.
+
+7 didn't infect 68 because is already vaccinated or already sick.
+
+7 didn't infect 87 because is already vaccinated or already sick.
+
+7 didn't infect 98 because is already vaccinated or already sick.
+
+7 didn't infect 33 because is already vaccinated or already sick.
+
+7 didn't infect 51 because is already vaccinated or already sick.
+
+7 didn't infect 91 because is already vaccinated or already sick.
+
+7 didn't infect 72 because is already vaccinated or already sick.
+
+7 didn't infect 76 because is already vaccinated or already sick.
+
+7 didn't infect 28 because is already vaccinated or already sick.
+
+7 didn't infect 16 because is already vaccinated or already sick.
+
+7 didn't infect 68 because is already vaccinated or already sick.
+
+7 didn't infect 22 because is already vaccinated or already sick.
+
+7 didn't infect 53 because is already vaccinated or already sick.
+
+7 didn't infect 19 because is already vaccinated or already sick.
+
+7 didn't infect 76 because is already vaccinated or already sick.
+
+7 didn't infect 97 because is already vaccinated or already sick.
+
+7 didn't infect 31 because is already vaccinated or already sick.
+
+7 didn't infect 14 because is already vaccinated or already sick.
+
+7 didn't infect 40 because is already vaccinated or already sick.
+
+7 didn't infect 67 because is already vaccinated or already sick.
+
+7 didn't infect 67 because is already vaccinated or already sick.
+
+7 didn't infect 79 because is already vaccinated or already sick.
+
+7 didn't infect 78 because is already vaccinated or already sick.
+
+7 didn't infect 92 because is already vaccinated or already sick.
+
+7 didn't infect 29 because is already vaccinated or already sick.
+
+7 didn't infect 56 because is already vaccinated or already sick.
+
+7 didn't infect 57 because is already vaccinated or already sick.
+7 died from infection
+
+34 didn't infect 54 because is already vaccinated or already sick.
+
+34 didn't infect 91 because is already vaccinated or already sick.
+
+34 didn't infect 16 because is already vaccinated or already sick.
+
+34 didn't infect 95 because is already vaccinated or already sick.
+
+34 didn't infect 98 because is already vaccinated or already sick.
+
+34 didn't infect 53 because is already vaccinated or already sick.
+
+34 didn't infect 18 because is already vaccinated or already sick.
+
+34 didn't infect 53 because is already vaccinated or already sick.
+
+34 didn't infect 22 because is already vaccinated or already sick.
+
+34 didn't infect 85 because is already vaccinated or already sick.
+
+34 didn't infect 60 because is already vaccinated or already sick.
+
+34 didn't infect 47 because is already vaccinated or already sick.
+
+34 didn't infect 42 because is already vaccinated or already sick.
+
+34 didn't infect 92 because is already vaccinated or already sick.
+
+34 didn't infect 29 because is already vaccinated or already sick.
+
+34 didn't infect 53 because is already vaccinated or already sick.
+
+34 didn't infect 20 because is already vaccinated or already sick.
+
+34 didn't infect 89 because is already vaccinated or already sick.
+
+34 didn't infect 28 because is already vaccinated or already sick.
+
+34 didn't infect 55 because is already vaccinated or already sick.
+
+34 didn't infect 50 because is already vaccinated or already sick.
+
+34 didn't infect 99 because is already vaccinated or already sick.
+
+34 didn't infect 61 because is already vaccinated or already sick.
+
+34 didn't infect 26 because is already vaccinated or already sick.
+
+34 didn't infect 91 because is already vaccinated or already sick.
+
+34 didn't infect 20 because is already vaccinated or already sick.
+
+34 didn't infect 50 because is already vaccinated or already sick.
+
+34 didn't infect 85 because is already vaccinated or already sick.
+
+34 didn't infect 59 because is already vaccinated or already sick.
+
+34 didn't infect 98 because is already vaccinated or already sick.
+
+34 didn't infect 53 because is already vaccinated or already sick.
+
+34 didn't infect 26 because is already vaccinated or already sick.
+
+34 didn't infect 80 because is already vaccinated or already sick.
+
+34 didn't infect 21 because is already vaccinated or already sick.
+
+34 didn't infect 98 because is already vaccinated or already sick.
+
+34 didn't infect 66 because is already vaccinated or already sick.
+
+34 didn't infect 78 because is already vaccinated or already sick.
+
+34 didn't infect 57 because is already vaccinated or already sick.
+
+34 didn't infect 12 because is already vaccinated or already sick.
+
+34 didn't infect 57 because is already vaccinated or already sick.
+
+34 didn't infect 50 because is already vaccinated or already sick.
+
+34 didn't infect 33 because is already vaccinated or already sick.
+
+34 didn't infect 37 because is already vaccinated or already sick.
+
+34 didn't infect 54 because is already vaccinated or already sick.
+
+34 didn't infect 75 because is already vaccinated or already sick.
+
+34 didn't infect 38 because is already vaccinated or already sick.
+
+34 didn't infect 27 because is already vaccinated or already sick.
+
+34 didn't infect 29 because is already vaccinated or already sick.
+
+34 didn't infect 19 because is already vaccinated or already sick.
+
+34 didn't infect 48 because is already vaccinated or already sick.
+
+34 didn't infect 22 because is already vaccinated or already sick.
+
+34 didn't infect 77 because is already vaccinated or already sick.
+
+34 didn't infect 83 because is already vaccinated or already sick.
+
+34 didn't infect 80 because is already vaccinated or already sick.
+
+34 didn't infect 14 because is already vaccinated or already sick.
+
+34 didn't infect 54 because is already vaccinated or already sick.
+
+34 didn't infect 94 because is already vaccinated or already sick.
+
+34 didn't infect 26 because is already vaccinated or already sick.
+
+34 didn't infect 91 because is already vaccinated or already sick.
+
+34 didn't infect 59 because is already vaccinated or already sick.
+
+34 didn't infect 29 because is already vaccinated or already sick.
+
+34 didn't infect 30 because is already vaccinated or already sick.
+
+34 didn't infect 33 because is already vaccinated or already sick.
+
+34 didn't infect 94 because is already vaccinated or already sick.
+
+34 didn't infect 31 because is already vaccinated or already sick.
+
+34 didn't infect 68 because is already vaccinated or already sick.
+
+34 didn't infect 15 because is already vaccinated or already sick.
+
+34 didn't infect 64 because is already vaccinated or already sick.
+
+34 didn't infect 57 because is already vaccinated or already sick.
+
+34 didn't infect 40 because is already vaccinated or already sick.
+
+34 didn't infect 68 because is already vaccinated or already sick.
+
+34 didn't infect 93 because is already vaccinated or already sick.
+
+34 didn't infect 47 because is already vaccinated or already sick.
+
+34 didn't infect 69 because is already vaccinated or already sick.
+
+34 didn't infect 39 because is already vaccinated or already sick.
+
+34 didn't infect 82 because is already vaccinated or already sick.
+
+34 didn't infect 40 because is already vaccinated or already sick.
+
+34 didn't infect 50 because is already vaccinated or already sick.
+
+34 didn't infect 73 because is already vaccinated or already sick.
+
+34 didn't infect 58 because is already vaccinated or already sick.
+
+34 didn't infect 88 because is already vaccinated or already sick.
+
+34 didn't infect 68 because is already vaccinated or already sick.
+
+34 didn't infect 72 because is already vaccinated or already sick.
+
+34 didn't infect 47 because is already vaccinated or already sick.
+
+34 didn't infect 59 because is already vaccinated or already sick.
+
+34 didn't infect 77 because is already vaccinated or already sick.
+
+34 didn't infect 80 because is already vaccinated or already sick.
+
+34 didn't infect 65 because is already vaccinated or already sick.
+
+34 didn't infect 30 because is already vaccinated or already sick.
+
+34 didn't infect 35 because is already vaccinated or already sick.
+
+34 didn't infect 92 because is already vaccinated or already sick.
+
+34 didn't infect 27 because is already vaccinated or already sick.
+
+34 didn't infect 42 because is already vaccinated or already sick.
+
+34 didn't infect 16 because is already vaccinated or already sick.
+
+34 didn't infect 98 because is already vaccinated or already sick.
+
+34 didn't infect 74 because is already vaccinated or already sick.
+
+34 didn't infect 58 because is already vaccinated or already sick.
+
+34 didn't infect 84 because is already vaccinated or already sick.
+
+34 didn't infect 23 because is already vaccinated or already sick.
+
+34 didn't infect 79 because is already vaccinated or already sick.
+34 died from infection
+Time step 4 ended, beginning time step 5
+
