@@ -30,30 +30,30 @@ class Simulation(object):
         self._create_population(initial_infected)
 
     def _create_population(self, initial_infected):
-        population = []
+        # population = []
         infected_count = 0
-        while len(population) < pop_size:
+        while len(self.population) < self.population_size:
             if infected_count !=  initial_infected:
                 infected_person_object = Person(self.next_person_id, False, self.virus)
-                population.append(infected_person_object)
+                self.population.append(infected_person_object)
                 infected_count += 1
                 self.next_person_id += 1
             else:
                 random_number = random.uniform(0, 1)
                 if random_number < self.vacc_percentage:
                     healthy_person_vaccinated = Person(self.next_person_id, True, None)
-                    population.append(healthy_person_vaccinated)
+                    self.population.append(healthy_person_vaccinated)
                     self.next_person_id += 1
                 else:
                     healthy_person_not_vaccinated = Person(self.next_person_id, False, None)
-                    population.append(healthy_person_not_vaccinated)
+                    self.population.append(healthy_person_not_vaccinated)
                     self.next_person_id += 1
 
-        for person in population:
-            self.population.append(person)
+        # for person in population:
+        #     self.population.append(person)
 
         self.current_infected = infected_count
-        return population
+        return self.population
 
 
     def _simulation_should_continue(self):
@@ -63,16 +63,22 @@ class Simulation(object):
             if person.is_alive == False:
                 print("person isnt alive")
                 dead += 1
+                if len(self.population) == dead:
+                    print("everyone's dead")
+                    return False
             elif person.infected != None and person.is_alive == True:
                 self.total_infected += 1
                 self.current_infected += 1
                 return True
+
         else:
             if len(self.population) == 0 or self.current_infected == 0:
                 print("everyone has died")
                 return False
             else:
                 return True
+
+
 
     def run(self):
         time_step_counter = 0
@@ -97,6 +103,7 @@ class Simulation(object):
                         self.interaction(person, randomized_person)
                         interactions += 1
                     else:
+                        # randomized_person = random.choice(self.population)
                         deads += 1
                     if deads > len(self.population):
                         interactions = 100
@@ -155,8 +162,7 @@ if __name__ == "__main__":
         initial_infected = int(params[5])
     else:
         initial_infected = 1
-    simulation = Simulation(pop_size, vacc_percentage, virus_name, mortality_rate,
-                            basic_repro_num, initial_infected)
+    simulation = Simulation(pop_size, vacc_percentage, virus_name, mortality_rate, basic_repro_num, initial_infected)
     simulation.run()
 
 
