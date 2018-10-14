@@ -1,0 +1,453 @@
+population size:10
+vaccine percentage:0.2
+virus name:ebola
+mortality rate:0.5
+basic reproduction number:0.9
+
+0 infects 1
+
+0 didn't infect 8 because is already vaccinated or already sick.
+
+0 infects 9
+
+0 infects 3
+
+0 didn't infect 8 because is already vaccinated or already sick.
+
+0 infects 6
+
+0 infects 9
+
+0 didn't infect 2 because is already vaccinated or already sick.
+
+0 infects 6
+
+0 didn't infect 2 because is already vaccinated or already sick.
+
+0 didn't infect 3 because is already vaccinated or already sick.
+
+0 infects 5
+
+0 infects 6
+
+0 infects 5
+
+0 infects 7
+
+0 infects 6
+
+0 infects 4
+
+0 infects 9
+
+0 infects 5
+
+0 infects 1
+
+0 infects 3
+
+0 infects 1
+
+0 infects 1
+
+0 infects 7
+
+0 infects 5
+
+0 infects 5
+
+0 infects 4
+
+0 infects 1
+
+0 didn't infect 2 because is already vaccinated or already sick.
+
+0 didn't infect 8 because is already vaccinated or already sick.
+
+0 infects 3
+
+0 infects 6
+
+0 didn't infect 8 because is already vaccinated or already sick.
+
+0 infects 3
+
+0 infects 3
+
+0 infects 5
+
+0 infects 1
+
+0 infects 9
+
+0 infects 5
+
+0 infects 7
+
+0 infects 7
+
+0 didn't infect 2 because is already vaccinated or already sick.
+
+0 infects 3
+
+0 didn't infect 8 because is already vaccinated or already sick.
+
+0 infects 4
+
+0 infects 6
+
+0 infects 6
+
+0 didn't infect 2 because is already vaccinated or already sick.
+
+0 didn't infect 8 because is already vaccinated or already sick.
+
+0 infects 7
+
+0 infects 1
+
+0 didn't infect 2 because is already vaccinated or already sick.
+
+0 infects 6
+
+0 infects 6
+
+0 infects 7
+
+0 didn't infect 8 because is already vaccinated or already sick.
+
+0 infects 1
+
+0 didn't infect 8 because is already vaccinated or already sick.
+
+0 infects 4
+
+0 infects 5
+
+0 infects 6
+
+0 didn't infect 4 because is already vaccinated or already sick.
+
+0 didn't infect 2 because is already vaccinated or already sick.
+
+0 didn't infect 8 because is already vaccinated or already sick.
+
+0 infects 1
+
+0 infects 4
+
+0 didn't infect 8 because is already vaccinated or already sick.
+
+0 infects 9
+
+0 infects 5
+
+0 didn't infect 8 because is already vaccinated or already sick.
+
+0 didn't infect 8 because is already vaccinated or already sick.
+
+0 infects 9
+
+0 didn't infect 1 because is already vaccinated or already sick.
+
+0 infects 4
+
+0 infects 3
+
+0 infects 1
+
+0 infects 7
+
+0 didn't infect 8 because is already vaccinated or already sick.
+
+0 didn't infect 2 because is already vaccinated or already sick.
+
+0 didn't infect 2 because is already vaccinated or already sick.
+
+0 didn't infect 7 because is already vaccinated or already sick.
+
+0 didn't infect 2 because is already vaccinated or already sick.
+
+0 infects 4
+
+0 infects 9
+
+0 didn't infect 3 because is already vaccinated or already sick.
+
+0 infects 3
+
+0 didn't infect 6 because is already vaccinated or already sick.
+
+0 infects 5
+
+0 didn't infect 8 because is already vaccinated or already sick.
+
+0 infects 7
+
+0 infects 3
+
+0 infects 9
+
+0 infects 9
+
+0 infects 1
+0 survived infection
+Time step 1 ended, beginning time step 2
+
+
+1 didn't infect 5 because is already vaccinated or already sick.
+
+1 didn't infect 8 because is already vaccinated or already sick.
+
+1 didn't infect 3 because is already vaccinated or already sick.
+
+1 didn't infect 4 because is already vaccinated or already sick.
+
+1 didn't infect 7 because is already vaccinated or already sick.
+
+1 didn't infect 3 because is already vaccinated or already sick.
+
+1 didn't infect 8 because is already vaccinated or already sick.
+
+1 didn't infect 2 because is already vaccinated or already sick.
+
+1 didn't infect 9 because is already vaccinated or already sick.
+
+1 didn't infect 9 because is already vaccinated or already sick.
+
+1 didn't infect 7 because is already vaccinated or already sick.
+
+1 didn't infect 3 because is already vaccinated or already sick.
+
+1 didn't infect 7 because is already vaccinated or already sick.
+
+1 didn't infect 6 because is already vaccinated or already sick.
+
+1 didn't infect 3 because is already vaccinated or already sick.
+
+1 didn't infect 6 because is already vaccinated or already sick.
+
+1 didn't infect 5 because is already vaccinated or already sick.
+
+1 didn't infect 6 because is already vaccinated or already sick.
+
+1 didn't infect 6 because is already vaccinated or already sick.
+
+1 didn't infect 7 because is already vaccinated or already sick.
+
+1 didn't infect 6 because is already vaccinated or already sick.
+
+1 didn't infect 5 because is already vaccinated or already sick.
+
+1 didn't infect 3 because is already vaccinated or already sick.
+
+1 didn't infect 3 because is already vaccinated or already sick.
+
+1 didn't infect 3 because is already vaccinated or already sick.
+
+1 didn't infect 8 because is already vaccinated or already sick.
+
+1 didn't infect 7 because is already vaccinated or already sick.
+
+1 didn't infect 2 because is already vaccinated or already sick.
+
+1 didn't infect 6 because is already vaccinated or already sick.
+
+1 didn't infect 2 because is already vaccinated or already sick.
+
+1 didn't infect 4 because is already vaccinated or already sick.
+
+1 didn't infect 7 because is already vaccinated or already sick.
+
+1 didn't infect 3 because is already vaccinated or already sick.
+
+1 didn't infect 7 because is already vaccinated or already sick.
+
+1 didn't infect 8 because is already vaccinated or already sick.
+
+1 didn't infect 8 because is already vaccinated or already sick.
+1 died from infection
+
+3 didn't infect 2 because is already vaccinated or already sick.
+
+3 didn't infect 4 because is already vaccinated or already sick.
+
+3 didn't infect 7 because is already vaccinated or already sick.
+
+3 didn't infect 8 because is already vaccinated or already sick.
+
+3 didn't infect 8 because is already vaccinated or already sick.
+
+3 didn't infect 4 because is already vaccinated or already sick.
+
+3 didn't infect 7 because is already vaccinated or already sick.
+
+3 didn't infect 7 because is already vaccinated or already sick.
+
+3 didn't infect 7 because is already vaccinated or already sick.
+
+3 didn't infect 5 because is already vaccinated or already sick.
+
+3 didn't infect 8 because is already vaccinated or already sick.
+
+3 didn't infect 5 because is already vaccinated or already sick.
+
+3 didn't infect 7 because is already vaccinated or already sick.
+
+3 didn't infect 9 because is already vaccinated or already sick.
+
+3 didn't infect 8 because is already vaccinated or already sick.
+
+3 didn't infect 4 because is already vaccinated or already sick.
+
+3 didn't infect 5 because is already vaccinated or already sick.
+
+3 didn't infect 4 because is already vaccinated or already sick.
+
+3 didn't infect 9 because is already vaccinated or already sick.
+
+3 didn't infect 6 because is already vaccinated or already sick.
+
+3 didn't infect 8 because is already vaccinated or already sick.
+
+3 didn't infect 9 because is already vaccinated or already sick.
+
+3 didn't infect 9 because is already vaccinated or already sick.
+3 died from infection
+
+5 didn't infect 2 because is already vaccinated or already sick.
+
+5 didn't infect 4 because is already vaccinated or already sick.
+
+5 didn't infect 2 because is already vaccinated or already sick.
+
+5 didn't infect 2 because is already vaccinated or already sick.
+
+5 didn't infect 8 because is already vaccinated or already sick.
+
+5 didn't infect 2 because is already vaccinated or already sick.
+
+5 didn't infect 2 because is already vaccinated or already sick.
+
+5 didn't infect 8 because is already vaccinated or already sick.
+
+5 didn't infect 7 because is already vaccinated or already sick.
+
+5 didn't infect 6 because is already vaccinated or already sick.
+
+5 didn't infect 7 because is already vaccinated or already sick.
+
+5 didn't infect 6 because is already vaccinated or already sick.
+
+5 didn't infect 8 because is already vaccinated or already sick.
+
+5 didn't infect 4 because is already vaccinated or already sick.
+
+5 didn't infect 6 because is already vaccinated or already sick.
+
+5 didn't infect 9 because is already vaccinated or already sick.
+
+5 didn't infect 7 because is already vaccinated or already sick.
+
+5 didn't infect 2 because is already vaccinated or already sick.
+
+5 didn't infect 9 because is already vaccinated or already sick.
+
+5 didn't infect 2 because is already vaccinated or already sick.
+
+5 didn't infect 2 because is already vaccinated or already sick.
+
+5 didn't infect 6 because is already vaccinated or already sick.
+
+5 didn't infect 4 because is already vaccinated or already sick.
+
+5 didn't infect 7 because is already vaccinated or already sick.
+
+5 didn't infect 2 because is already vaccinated or already sick.
+5 died from infection
+
+7 didn't infect 4 because is already vaccinated or already sick.
+
+7 didn't infect 4 because is already vaccinated or already sick.
+
+7 didn't infect 2 because is already vaccinated or already sick.
+
+7 didn't infect 6 because is already vaccinated or already sick.
+
+7 didn't infect 9 because is already vaccinated or already sick.
+
+7 didn't infect 8 because is already vaccinated or already sick.
+
+7 didn't infect 4 because is already vaccinated or already sick.
+
+7 didn't infect 9 because is already vaccinated or already sick.
+
+7 didn't infect 8 because is already vaccinated or already sick.
+
+7 didn't infect 8 because is already vaccinated or already sick.
+
+7 didn't infect 9 because is already vaccinated or already sick.
+
+7 didn't infect 4 because is already vaccinated or already sick.
+
+7 didn't infect 8 because is already vaccinated or already sick.
+
+7 didn't infect 2 because is already vaccinated or already sick.
+
+7 didn't infect 4 because is already vaccinated or already sick.
+7 died from infection
+
+9 didn't infect 8 because is already vaccinated or already sick.
+
+9 didn't infect 2 because is already vaccinated or already sick.
+
+9 didn't infect 4 because is already vaccinated or already sick.
+
+9 didn't infect 4 because is already vaccinated or already sick.
+
+9 didn't infect 8 because is already vaccinated or already sick.
+
+9 didn't infect 2 because is already vaccinated or already sick.
+
+9 didn't infect 4 because is already vaccinated or already sick.
+
+9 didn't infect 2 because is already vaccinated or already sick.
+
+9 didn't infect 4 because is already vaccinated or already sick.
+
+9 didn't infect 8 because is already vaccinated or already sick.
+
+9 didn't infect 6 because is already vaccinated or already sick.
+
+9 didn't infect 4 because is already vaccinated or already sick.
+9 died from infection
+Time step 2 ended, beginning time step 3
+
+
+4 didn't infect 6 because is already vaccinated or already sick.
+
+4 didn't infect 2 because is already vaccinated or already sick.
+
+4 didn't infect 2 because is already vaccinated or already sick.
+
+4 didn't infect 6 because is already vaccinated or already sick.
+
+4 didn't infect 8 because is already vaccinated or already sick.
+
+4 didn't infect 6 because is already vaccinated or already sick.
+
+4 didn't infect 8 because is already vaccinated or already sick.
+4 died from infection
+Time step 3 ended, beginning time step 4
+
+
+6 didn't infect 2 because is already vaccinated or already sick.
+
+6 didn't infect 2 because is already vaccinated or already sick.
+
+6 didn't infect 8 because is already vaccinated or already sick.
+
+6 didn't infect 2 because is already vaccinated or already sick.
+6 died from infection
+Time step 4 ended, beginning time step 5
+
