@@ -14,11 +14,12 @@ class Person(object):
         self.infection = infected
 
 
-    def did_survive_infection(self, mortality_rate):
+    def did_survive_infection(self):
         if self.infection != None:
             random_number =  random.uniform(0, 1)
-            if random_number < self.infected.mortality_rate:
+            if random_number < self.infection.mortality_rate:
                 self.is_alive = False
+                # self.infected = None
                 return False
             else:
                 self.is_vaccinated = True
