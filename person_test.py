@@ -27,5 +27,5 @@ def test_is_alive_and_is_vaccinated():
 
 def test_did_survive_infection():
     person = Person(925, True)
-    person.did_survive_infection(0.8)
+    person.did_survive_infection()
     assert True
